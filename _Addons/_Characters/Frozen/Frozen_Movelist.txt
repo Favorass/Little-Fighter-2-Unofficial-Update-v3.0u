@@ -1,0 +1,33 @@
+--------------
+Skills
+--------------
+
+- Icewind Blast			mp: 40, 60
+	D>A, A
+
+- Icewind Combination		mp: 60, 25
+	DvA, A
+
+- Frozen Mirage I		mp: 30
+	D>J
+	D>J, <
+	Run, D
+	Run, D<
+
+- Frozen Mirage II		mp: 30
+	DJA
+	DJA, >J
+	DJA, >J<
+	DJA, <J
+	DJA, > while being hit.
+	DJA, < while being hit.
+
+- Frozen Mirage III		mp: 30
+	Catching, DJA
+	Catching, DJA<
+
+- Mirage Strike			mp: 0, 20
+	From (Frozen Mirage I) or (Frozen Mirage II), A, A.
+
+- Icewind Storm			mp: 175 (60/s)
+	D^J, D (to cancel)	

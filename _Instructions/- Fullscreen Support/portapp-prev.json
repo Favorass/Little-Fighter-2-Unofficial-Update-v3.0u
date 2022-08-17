@@ -1,0 +1,21 @@
+{
+  "info": {
+    "id": "borderless-gaming-portable",
+    "guid": "{04961880-8E2E-44CB-8ABB-007817E6039F}",
+    "name": "Borderless Gaming Portable",
+    "version": "9.5.6",
+    "release": "3",
+    "date": "2021/01/03 02:29:31",
+    "publisher": "CrazyMax",
+    "url": "https://github.com/portapps/borderless-gaming-portable",
+    "portapps_version": "3.1.0"
+  },
+  "win_version": {
+    "Major": 10,
+    "Minor": 0,
+    "Build": 22000
+  },
+  "root_path": "D:\\Games\\LF2\\LF2 3.0\\--FULLSCREEN",
+  "app_path": "D:\\Games\\LF2\\LF2 3.0\\--FULLSCREEN\\app",
+  "data_path": "D:\\Games\\LF2\\LF2 3.0\\--FULLSCREEN\\data"
+}

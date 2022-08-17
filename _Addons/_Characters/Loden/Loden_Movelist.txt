@@ -1,0 +1,17 @@
+Moves
+----------------------------------------------------------------------
+
+1.Magnet Blast:
+Input method: D > J (Extra: jump on in to blow it)
+
+2.Kick:
+Input method: D v A
+
+3.Magnetic Pull:
+Input method: D ^ J
+
+4.Magnetic Push:
+Input method: D v J
+
+5.Pushing Magnet Ball:
+Input method: D > A (Extra: Hold Backwards for Pulling ball)

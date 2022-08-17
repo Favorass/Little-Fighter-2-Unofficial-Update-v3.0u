@@ -1,0 +1,64 @@
+===MOVELIST===
+
+Gad is a powerful bruiser, his wild animal fury and imposing physique make him a deadly force to behold!
+He has great reach, strong anti-air capabilities and is a bit faster than normal on the x-axis.
+However, he is a bit slow on the z-axis, has quite a long recovery time and his large body presents a bigger target.
+
+---
+
+PASSIVE PERKS:
+	Sharp Claws	=	All of Gad's attacks can hit multiple enemies, INCLUDING during grab!
+	Alligator Spin	=	Gad can spin & throw heavy weapons.	[60mp / 12% per spin]
+	Crocodile Roll	=	Gad can roll along z-axis slightly, and from Super_punch & DvA Shrafe.
+	Grab Direction	=	Gad can change the direction he is grabbing his enemy.
+	Drink Reflex	=	Gad can cancel drinking with either D or J.
+note: you cannot change direction while spinthrowing heavy weapons if F6 is enabled.
+
+---
+
+BASIC ATTACKS:
+1.	Punch			-	quite similar to Dennis, but recovers a bit faster & moves forward a lot more.
+2.	Run Attack		-	blocks attacks initially, then charge forward to claw. Can move along z-axis. Good for killing bandits.
+3.	Jump Attack		-	a simple but powerful kick. Can be used twice on a jumping enemy.
+4.	Dash Claw		-	a quick dash attack with a bit more forward movement & height than regular, and shorter itr duration.
+---
+
+==============
+SPECIAL MOVES
+==============
+
+1.	Energy Slashes				D>A		[125mp / 25%]
+Does two short-range blasts similar to Deep's, but with Woody's attack style.
+
+2.	Reptilian Shrafe			DvA		[75mp / 15%]
+Unleash a flurry of attacks similar to Davis. It ends with an upward jump kick, and you can roll/dash away upon landing.
+
+3.	Javelin Spin				D>J		[200mp / 40%]
+Lunge forward with incredible force, similar to Woody's tiger dash.
+	* Can be used while rolling.
+
+4.	Alligator Charge			D^J		[125mp / 25% (+continuous mp cost)]
+Charge forward and attempt to grab the enemy. When successful, hold the enemy infront of you like a battering ram.
+	* Can be used while rolling.
+	* Pressing >A or J allows you to Spin Throw. Keep pressing A/J to keep spinning. You may change direction while spinning.
+	* Unlike the heavy_weapon version, F6 does not affect the direction change.
+
+==============
+
+COMBOS:
+1)	Claw Combo		AA Grab A*5 DvA >JA		(> must be hit just after landing from shrafe to enter instant run)
+2)	Kick DashClaw	AA Super >>JA			(enemy must be somewhere behind Gad, and facing Gad's back)
+3)	Shrafe DashClaw	DvA >>JA				(enemy must be somewhere behind Gad, or be pushed into a wall)
+4)	Shrafe Javelin	DvA D>J					(enemy should be somewhere inside or in front of Gad)
+5)	Shrafe Grab		DvA D...^J				(tap D just as you land on the ground, then ^J. Don't bother buffering D^J unless near a wall; it won't work unless you roll first)
+6)	Slash Javelin	D>A J					(its actually D>A D>J, but the controls are like this due to a bug with LF2's input detection itself)
+7)	Slash DashClaw	> D>A >JA				(D>A must be all 3 buttons at once to allow instant run to work)
+WALL COMBOS:
+1)	Shrafe JumpAtk			DvA >J A			(jump attack)
+2)	GrabThrow DashClaw		> Grab >A >JA		(dash atack)
+3)	Gadian Death Roll		AA DvA D>A D^J		(very hard to do; both D>A balls must hit for this to work)
+4)	Reptilian Frenzy		AA DvA D>A (D>)J	(very hard to do; both D>A balls must hit for this to work)
+--------------
+Known Bugs / "Features":
+* weapon disappear if rolling into edge of map, or if D>J with back towards wall. Nothing much I can do about this and even normal LF2 characters are affected by this.
+--------------

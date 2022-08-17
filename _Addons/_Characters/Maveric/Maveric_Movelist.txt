@@ -1,0 +1,102 @@
+______________________________________________________________________
+Moves
+----------------------------------------------------------------------
+
+- Laser (D>A +A+A+...)
+   This is a laser that can be fired multiple times. Although it does
+   home for the next opponent you can still aim by holding up or down
+   while shooting. It can also be performed while jumping.
+
+- Skip Lock (D^J/DvJ)
+   This move allows you to skip right to the next enemy within range.
+   The range is limited to an area in front of Maveric, however it
+   can be drastically expanded when using it next to a teammate.
+   When there is no character in this range it can be used to dodge
+   attacks by holding the up or down button. This way you can also
+   extend it's range on the z-axis.
+
+- Skip Slash (D>J +J/D>J)
+   This is a fast slashing combo that can be easily added to a skip
+   Lock by pressing J. The second slash can be performed either fast
+   with another D>J or slow with J. The fast option allows you to
+   change the direction of your move.
+
+- Gravitation Halo (DvA +A)
+   Inducing this charge takes mana and health, while charging your
+   health will regenerate again and objects around you will be
+   sucked towards you. Once you run out of mana or press A the
+   charge will be released in a big energy halo.
+
+______________________________________________________________________
+Advanced controls
+----------------------------------------------------------------------
+
+ The following paragraphs will focus on Maverics basic attack system,
+ his enforced moves, other inputs and a few connective combinations.
+
+ Maverics more powerful basic attacks (super-, run-, dash-) are energy
+ powered moves that might empty out your mana bar pretty fast, but you
+ will use non-energy powered moves instead if you don't have enough
+ mana. You can use the non-energy powered dash-attack even with high
+ mana when you press JA at once while running instead of J+A.
+
+ You might have noticed the energy spark once Maveric blocked an
+ attack. His Energy Managing Device (EMD), the glove, allows him to
+ use the defended energy to induce more powerful moves, counter the
+ attack or heal himself.
+ Actions upon successfully defending an attack:
+- Energy Discharge (+A)
+   Send the energy back where it came from. Recommended for blocked
+   melee attacks.
+- Heal (+J)
+   Heal yourself. Recommended for blocked projectile attacks.
+- Funnel Spreader (+D>A)
+   Release several homing lasers that scatter once they hit.
+   Recommended for distant enemy groups.
+- Skip Chain (+D^J/DvJ)
+   Chain up to five skip attacks together. Recommended for close
+   enemy groups. Will fail with teammates around.
+- Skip Combo (+D>J)
+   Unleash five fast slash attacks. Recommended for one on one fights.
+- Gravitational Overload (+DvA)
+   Charge up more energy than your EMD could possibly take in.
+   This one might not turn out to your advantage. Use with caution.
+
+ Other inputs:
+- Skip (JA)
+   This is similar to the Skip Lock, but it will not lock onto other
+   characters. Since it takes less mana to perform it is the better
+   move to simply dodge projectiles or set up a fast Skip Slash.
+- Running Skip (>> DA)
+   This special skip can be used to unexpectedly rush towards your
+   opponent and take him down with a run-attack.
+- Uppercut (D^A)
+   This is Maverics energy powered super-attack set to a key
+   combination, similar to Woodys flip-kick.
+- Energy Discharge (G+D>A)
+   Blow your opponent away instead of throwing him.
+- Converter (G+J +J+J+...)
+   Convert your opponents health into mana for yourself.
+
+ Connectives:
+  >> DA +J/D>J +J/D>J
+  JA +J/D>J +J/D>J
+  DvJ/D^J +J/D>J +J/D>J
+  D^A +D>J
+  D^A +J +A
+  D^A +D +A
+  ...
+
+______________________________________________________________________
+Overdrive
+----------------------------------------------------------------------
+
+ The new overdrive mode allows Maveric to charge all his ground based
+ energy moves over the safety limit. The two energy driven punches
+ simply become a little stronger and overcharging the special moves
+ will make him perform their counter version.
+ However be cautious with this feature, it can kill you.
+
+ To overdrive your EMD just press and hold backwards as you perform
+ a move (opposite direction you are facing). Release the key to start
+ the overdrive attack.

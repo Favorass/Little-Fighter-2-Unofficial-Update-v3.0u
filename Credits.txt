@@ -1,0 +1,29 @@
+===============================================================================
+                        Little Fighter 2 version 3.0u
+                                     2022
+
+                             Copyright 1999-2022,
+                         Marti Wong and Starsky Wong, 
+                             All rights reserved
+    
+                        Official Site: http://lf2.net
+
+                        Unofficial Update by Favoras
+===============================================================================
+
+
+-------
+CREDITS
+-------
+This unofficial update was made by Favoras.
+Big thanks to darkfiren for helping with making and implementing new features and overall EXE and DLL editing (kek); to Little Fighter Empire and Little Fighter Forever communities.
+
+Little Fighter 2 — Marti Wong and Starsky Wong
+Neora Engine — Alkarter, Drakken, Lord Silva, 1477, Surik, Archer-Dante
+Easier Data-Editor — Luigi600
+
+EXE and DLL editing — Shad90, InfiniteZero, Leaf.F, darkfiren, Hari
+Multli-Dll loading ddraw.dll — Som1Lse
+Background edits — Hari, Shad90, LTWasabi, Favoras
+Design and UI changes — Favoras, darkfiren, STM1993
+"How to Play Online" guide — NTSD community

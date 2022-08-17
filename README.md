@@ -1,7 +1,5 @@
 # Little Fighter 2 Unofficial Update v3.0u
 ===============================================================================
-                        Little Fighter 2 version 3.0u
-                                     2022
 
                              Copyright 1999-2022,
                          Marti Wong and Starsky Wong, 
@@ -10,6 +8,7 @@
                         Official Site: http://lf2.net
 
                         Unofficial Update by Favoras
+                        
 ===============================================================================
 
 

@@ -1,5 +1,6 @@
 # Little Fighter 2 Unofficial Update v3.0u
 
+![Little Fighter 2 Unofficial Update Preview](https://lh4.googleusercontent.com/whMA8GulTnMgTQqfBxW6UGWFM_zaCH_5SghRprSIrNRBnqIKJK5gOsbyEc_gNFyDKhU=w2400)
 
 ## Disclaimer
 Authors of this program will not be held liable for any damages to either the 
@@ -28,13 +29,13 @@ of the use of this program.
 
 2. Game **loading** is **really fast** now.
 
-3. When using the function keys, the HP/Dark HP/MP numbers are displayed under the player’s HP bar (1 - Current HP, 2 - Maximal available HP to be recovered, 3 - Current MP).
+3. When **using** the **function keys**, the **HP/Dark HP/MP numbers** are **displayed** **under the player’s HP bar** (1 - Current HP, 2 - Maximal available HP to be recovered, 3 - Current MP).
 
 4. New icon, fixes and changes to **design** and **UI** (both visually and text), and overall **"Quality of Life"** approach in mind.
 
 5. **Input** is **more responsive** now (single-player gaming).
 
-6. Correction changes of statistics (attack, kill etc) count were made.
+6. **Correction changes of statistics** (attack, kill etc) **count** were made.
 
 7. **"Ratio+1"** and **"Spectator"** characters were added:
 - **ratio** is useful for making Stage Mode harder without adding bots to your team;

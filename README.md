@@ -8,15 +8,17 @@ of the use of this program.
 
 
 ## System Requirements
-Platform: **Windows** XP SP2 or above, with **Direct X 9.0 or above**
-Resolution: **1024 x 768 or above**, MUST BE **32 bit colors**
 
+ - Platform: **Windows** XP SP2 or above, with **Direct X 9.0 or above**
+ - Resolution: **1024 x 768 or above**, MUST BE **32 bit colors**
 
 ## Contacts
-[Official Little Fighter 2 Web-site](https://lf2.net/)
-[Little Fighter Empire Community Discord (Worldwide)](https://discord.gg/Z2MFSMD)
-[Little Fighter Forever Community Discord (Post Soviet countries mostly)](https://discord.gg/8VeQr3xACb)
 
+ - [Official Little Fighter 2 Web-site](https://lf2.net/)
+ - [Little Fighter Empire Community Discord
+   (Worldwide)](https://discord.gg/Z2MFSMD)
+ - [Little Fighter Forever Community Discord (Post Soviet countries
+   mostly)](https://discord.gg/8VeQr3xACb)
 
 ## Updates
 
@@ -50,13 +52,12 @@ Resolution: **1024 x 768 or above**, MUST BE **32 bit colors**
 This unofficial update was made by **Favoras** 
 Big thanks to **darkfiren** for helping with making and implementing new features and overall EXE and DLL editing (kek); to Little Fighter Empire and Little Fighter Forever communities
 
-Little Fighter 2 — Marti Wong and Starsky Wong
-Easier Data-Editor — Luigi600
-
-EXE and DLL editing — Leaf.F, Shad90, InfiniteZero, darkfiren, Hari
-Multli-Dll loading ddraw.dll — Som1Lse
-Background edits — Hari, Shad90, LTWasabi, Favoras
-Design and UI changes — Favoras, darkfiren, STM1993
-"How to Play Online" guide — NTSD community
+ - **Little Fighter 2** — Marti Wong and Starsky Wong
+ - **Easier Data-Editor** — Luigi600
+ - **EXE and DLL editing** — Leaf.F, Shad90, InfiniteZero, darkfiren, Hari
+ - **Multli-Dll loading ddraw.dll** — Som1Lse
+ - **Background edits** — Hari, Shad90, LTWasabi, Favoras
+ - **Design and UI changes** — Favoras, darkfiren, STM1993
+ - **"How to Play Online" guide** — NTSD community
 
 > If I forgot to mention you or somebody else — you're free to tag me (@Favoras) on one of the Discord servers I mentioned in Contacts

@@ -1,6 +1,6 @@
 # Little Fighter 2 Unofficial Update v3.0u
 
-
+![Little Fighter 2 Unofficial Update Preview](https://lh4.googleusercontent.com/whMA8GulTnMgTQqfBxW6UGWFM_zaCH_5SghRprSIrNRBnqIKJK5gOsbyEc_gNFyDKhU=w2400)
 
 ## Disclaimer
 Authors of this program will not be held liable for any damages to either the 

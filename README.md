@@ -37,9 +37,9 @@ of the use of this program.
 
 6. **Correction changes of statistics** (attack, kill etc) **count** were made.
 
-7. **"Ratio+1"** and **"Spectator"** characters were added:
-- **ratio** is useful for making Stage Mode harder without adding bots to your team;
-- **spectator** is useful for spectating custom game with other players or bots (without them attacking you), you can also dissappear from map completely by pressing "attack" button.
+7. **"Ratio+1"** and **"Spectator"** "tools-characters" were added:
+- **Ratio+1** is useful for making Stage Mode harder without adding bots to your team;
+- **Spectator** is useful for spectating custom game with other players or bots (without them attacking you), you can also dissappear from map completely by pressing "attack" button.
 
 8. Optional **Addons** and **Mods** are available now (**"_Addons"** and **"_Mods" folders**).
 

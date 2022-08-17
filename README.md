@@ -1,5 +1,4 @@
 # Little Fighter 2 Unofficial Update v3.0u
-## Compilation + self-made fixes
 
                              Copyright 1999-2022,
                          Marti Wong and Starsky Wong, 
@@ -9,8 +8,6 @@
 
                         Unofficial Update by Favoras
                         
-
-
 -------
 UPDATES
 -------

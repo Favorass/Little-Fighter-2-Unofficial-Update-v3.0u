@@ -1,4 +1,0 @@
-
-- removed "Template" character and template backgrounds from roster
-- changed game icon and made variations for different resolutions of it
-- all backgrounds are standardised to "508" height (except Lee on road)

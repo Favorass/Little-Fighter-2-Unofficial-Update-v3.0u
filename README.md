@@ -41,11 +41,13 @@ of the use of this program.
 - **Ratio+1** is useful for making Stage Mode harder without adding bots to your team;
 - **Spectator** is useful for spectating custom game with other players or bots (without them attacking you), you can also dissappear from map completely by pressing "attack" button.
 
-8. Optional **Addons** and **Mods** are available now (**"_Addons"** and **"_Mods" folders**).
+8. Slightly **modernized and standardized original backgrounds**.
 
-9. **Instructions** section is now added (**"_Instructions" folder**).
+9. Optional **Addons** and **Mods** are available now (**"_Addons"** and **"_Mods" folders**).
 
-10. **Movelist** and **Controls** have been replaced by **visual guide program** (**"Guide & Movelist" folder**).
+10. **Instructions** section is now added (**"_Instructions" folder**).
+
+11. **Movelist** and **Controls** have been replaced by **visual guide program** (**"Guide & Movelist" folder**).
 
 
 ## Credits

@@ -52,7 +52,7 @@ of the use of this program.
 
 ## Credits
 
-This unofficial update was made by **Favoras** 
+This unofficial update was made by **Favoras**. 
 Big thanks to **darkfiren** for helping with making and implementing new features and overall EXE and DLL editing (kek); to Little Fighter Empire and Little Fighter Forever communities
 
  - **Little Fighter 2** — Marti Wong and Starsky Wong

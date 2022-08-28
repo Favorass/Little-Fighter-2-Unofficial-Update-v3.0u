@@ -1,7 +1,8 @@
 -----------------------------
 Fullscreen Support DLL method
 -----------------------------
-Automatic fullscreen mode by Favoras
+Automatic fullscreen mode + game now is detected by programs like GeForce Experience
+by Favoras
 
 
 ------------

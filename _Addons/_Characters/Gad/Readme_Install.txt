@@ -24,5 +24,5 @@ Installation
 4) Find "data.txt" file here, open it
 5) Find "#New Heroes" section here and paste the code below it
 CODE:
-id:  13  type: 0  file: addons\chars\Gad\gad.dat
+id:  17  type: 0  file: addons\chars\Gad\gad.dat
 id:  6255  type: 3  file: addons\chars\Gad\gad_ball.dat

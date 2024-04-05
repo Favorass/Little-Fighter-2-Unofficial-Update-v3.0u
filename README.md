@@ -3,9 +3,7 @@
 ![Little Fighter 2 Unofficial Update Preview](https://lh6.googleusercontent.com/O0N5DBUzEX_aZPEp-Clk5sBn3LJPgyHbW8GQ2fDinP-xrq-Uyl41AY124zg7VKUE9o8=w2400)
 
 ## Disclaimer
-Authors of this program will not be held liable for any damages to either the 
-user or the system it is run on, that may occur as a direct or indirect result 
-of the use of this program.
+The authors of this program will not be held liable for any damages to the user or the system on which it is run that may occur as a direct or indirect result of the use of this program.
 
 
 ## System Requirements
@@ -25,35 +23,35 @@ of the use of this program.
 
 ### <2022 v3.0u>
 
-1. The game now is in **widescreen**, has **window auto-centering** and **maintains aspect ratio** when maximized (optimized mainly for **1920x1080** resolution and **Windows 11**).
+1. The game is now **widescreen**, has **window autocentering** and **maintains aspect ratio** when maximised (mainly optimised for **1920x1080** resolution and **Windows 11**).
 
-2. Game **loading** is **really fast** now.
+2. Game **loading** is now **really fast**.
 
-3. When **using** the **function keys**, the **HP/Dark HP/MP numbers** are **displayed** **under the player’s HP bar** (1 - Current HP, 2 - Maximal available HP to be recovered, 3 - Current MP).
+3. When **using** the **function keys**, the **HP/Dark HP/MP numbers** are **displayed** **under the player's HP bar** (1 - Current HP, 2 - Maximum HP available to be restored, 3 - Current MP).
 
-4. New icon, fixes and changes to **design** and **UI** (both visually and text), and overall **"Quality of Life"** approach in mind.
+4. New icon, fixes and changes to **design** and **UI** (both visual and textual), and overall **quality of life** approach.
 
-5. **Input** is **more responsive** now (single-player gaming).
+5. **Input** is now **more responsive** (single-player gaming).
 
-6. **Correction changes of statistics** (attack, kill etc) **count** were made.
+6. **Correction changes to statistics (attack, kill etc) **count** have been made.
 
-7. **"Ratio+1"** and **"Spectator"** tools-characters were added:
-- **Ratio+1** is useful for making Stage Mode harder without adding bots to your team;
-- **Spectator** is useful for spectating custom game with other players or bots (without them attacking you), you can also dissappear from map completely by pressing "attack" button.
+7. **"Ratio+1"** and **"Spectator"** tool-characters have been added:
+- Ratio+1** is useful for making stage mode harder without adding bots to your team;
+- Spectator** is useful for watching a custom game with other players or bots (without them attacking you), you can also disappear from the map completely by pressing the attack button.
 
-8. Slightly **modernized and standardized original backgrounds**.
+8. Slightly **modernised and standardised original backgrounds**.
 
-9. Optional **Addons** and **Mods** are available now (**"_Addons"** and **"_Mods" folders**).
+9. Optional **Addons** and **Mods** are now available (**"_Addons"** and **"_Mods" folders).
 
-10. **Instructions** section is now added (**"_Instructions" folder**).
+10. Added **Instructions** section (**"_Instructions" folder**).
 
-11. **Movelist** and **Controls** have been replaced by **visual guide program** (**"Guide & Movelist" folder**).
+11. **Movelist** and **Controls** have been replaced by **Visual Guide** (**"Guide & Movelist" folder**).
 
 
 ## Credits
 
-This unofficial update was made by **Favoras**. 
-Big thanks to **darkfiren** for helping with making and implementing new features and overall EXE and DLL editing (kek); to Little Fighter Empire and Little Fighter Forever communities
+This unofficial update was created by **Favoras**. 
+Many thanks to **darkfiren** for helping with creating and implementing new features and general EXE and DLL editing (kek); to the Little Fighter Empire and Little Fighter Forever communities.
 
  - **Little Fighter 2** — Marti Wong and Starsky Wong
  - **Easier Data-Editor** — Luigi600
@@ -63,4 +61,4 @@ Big thanks to **darkfiren** for helping with making and implementing new feature
  - **Design and UI changes** — Favoras, darkfiren, STM1993
  - **"How to Play Online" guide** — NTSD community
 
-> If I forgot to mention you or somebody else — you're free to tag me (@Favoras) on one of the Discord servers I mentioned in Contacts
+> If I've forgotten to mention you or someone else - feel free to tag me (@Favoras) on any of the Discord servers I've listed in Contacts.

@@ -311,3 +311,51 @@ Fri, 15 Jul 2022 22:08:39 EEST INF C:/Users/runneradmin/go/pkg/mod/github.com/po
 Fri, 15 Jul 2022 22:08:39 EEST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.1.0/portapps.go:190 > Exec D:\Games\LF2\LF2 3.0\--FULLSCREEN\app\BorderlessGaming.exe 
 Fri, 15 Jul 2022 22:09:00 EEST ERR C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.1.0/portapps.go:195 > Command failed error="exit status -1073740771"
 Fri, 15 Jul 2022 22:09:00 EEST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.1.0/portapps.go:214 > Closing Borderless Gaming
+Mon, 15 Apr 2024 22:04:24 EEST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.1.0/portapps.go:118 > --------
+Mon, 15 Apr 2024 22:04:24 EEST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.1.0/portapps.go:119 > Operating System: Windows 10.0.22631
+Mon, 15 Apr 2024 22:04:24 EEST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.1.0/portapps.go:120 > Starting Borderless Gaming 9.5.6-3 (portapps 3.1.0)...
+Mon, 15 Apr 2024 22:04:24 EEST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.1.0/portapps.go:121 > Release date: 2021/01/03 02:29:31
+Mon, 15 Apr 2024 22:04:24 EEST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.1.0/portapps.go:122 > Publisher: CrazyMax (https://github.com/portapps/borderless-gaming-portable)
+Mon, 15 Apr 2024 22:04:24 EEST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.1.0/portapps.go:123 > Root path: D:\Games\PC Games\Little Fighter 2\LF2 Unofficial Update v3.0u\_Instructions\- Fullscreen Support\Program method (more control)
+Mon, 15 Apr 2024 22:04:24 EEST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.1.0/portapps.go:127 > Configuration:
+common:
+  disable_log: false
+  args: []
+  env: {}
+  app_path: ""
+
+Mon, 15 Apr 2024 22:04:24 EEST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.1.0/portapps.go:167 > Process: D:\Games\PC Games\Little Fighter 2\LF2 Unofficial Update v3.0u\_Instructions\- Fullscreen Support\Program method (more control)\app\BorderlessGaming.exe
+Mon, 15 Apr 2024 22:04:24 EEST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.1.0/portapps.go:168 > Args (config file): 
+Mon, 15 Apr 2024 22:04:24 EEST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.1.0/portapps.go:169 > Args (cmd line): 
+Mon, 15 Apr 2024 22:04:24 EEST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.1.0/portapps.go:170 > Args (hardcoded): 
+Mon, 15 Apr 2024 22:04:24 EEST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.1.0/portapps.go:171 > Working dir: D:\Games\PC Games\Little Fighter 2\LF2 Unofficial Update v3.0u\_Instructions\- Fullscreen Support\Program method (more control)\app
+Mon, 15 Apr 2024 22:04:24 EEST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.1.0/portapps.go:172 > App path: D:\Games\PC Games\Little Fighter 2\LF2 Unofficial Update v3.0u\_Instructions\- Fullscreen Support\Program method (more control)\app
+Mon, 15 Apr 2024 22:04:24 EEST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.1.0/portapps.go:173 > Data path: D:\Games\PC Games\Little Fighter 2\LF2 Unofficial Update v3.0u\_Instructions\- Fullscreen Support\Program method (more control)\data
+Mon, 15 Apr 2024 22:04:24 EEST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.1.0/portapps.go:174 > Previous path: D:\Games\LF2\LF2 3.0\--FULLSCREEN
+Mon, 15 Apr 2024 22:04:24 EEST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.1.0/portapps.go:180 > Launching Borderless Gaming
+Mon, 15 Apr 2024 22:04:24 EEST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.1.0/portapps.go:190 > Exec D:\Games\PC Games\Little Fighter 2\LF2 Unofficial Update v3.0u\_Instructions\- Fullscreen Support\Program method (more control)\app\BorderlessGaming.exe 
+Mon, 15 Apr 2024 22:04:32 EEST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.1.0/portapps.go:214 > Closing Borderless Gaming
+Mon, 15 Apr 2024 22:04:40 EEST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.1.0/portapps.go:118 > --------
+Mon, 15 Apr 2024 22:04:40 EEST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.1.0/portapps.go:119 > Operating System: Windows 10.0.22631
+Mon, 15 Apr 2024 22:04:40 EEST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.1.0/portapps.go:120 > Starting Borderless Gaming 9.5.6-3 (portapps 3.1.0)...
+Mon, 15 Apr 2024 22:04:40 EEST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.1.0/portapps.go:121 > Release date: 2021/01/03 02:29:31
+Mon, 15 Apr 2024 22:04:40 EEST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.1.0/portapps.go:122 > Publisher: CrazyMax (https://github.com/portapps/borderless-gaming-portable)
+Mon, 15 Apr 2024 22:04:40 EEST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.1.0/portapps.go:123 > Root path: D:\Games\PC Games\Little Fighter 2\LF2 Unofficial Update v3.0u\_Instructions\- Fullscreen Support\Program method (more control)
+Mon, 15 Apr 2024 22:04:40 EEST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.1.0/portapps.go:127 > Configuration:
+common:
+  disable_log: false
+  args: []
+  env: {}
+  app_path: ""
+
+Mon, 15 Apr 2024 22:04:40 EEST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.1.0/portapps.go:167 > Process: D:\Games\PC Games\Little Fighter 2\LF2 Unofficial Update v3.0u\_Instructions\- Fullscreen Support\Program method (more control)\app\BorderlessGaming.exe
+Mon, 15 Apr 2024 22:04:40 EEST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.1.0/portapps.go:168 > Args (config file): 
+Mon, 15 Apr 2024 22:04:40 EEST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.1.0/portapps.go:169 > Args (cmd line): 
+Mon, 15 Apr 2024 22:04:40 EEST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.1.0/portapps.go:170 > Args (hardcoded): 
+Mon, 15 Apr 2024 22:04:40 EEST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.1.0/portapps.go:171 > Working dir: D:\Games\PC Games\Little Fighter 2\LF2 Unofficial Update v3.0u\_Instructions\- Fullscreen Support\Program method (more control)\app
+Mon, 15 Apr 2024 22:04:40 EEST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.1.0/portapps.go:172 > App path: D:\Games\PC Games\Little Fighter 2\LF2 Unofficial Update v3.0u\_Instructions\- Fullscreen Support\Program method (more control)\app
+Mon, 15 Apr 2024 22:04:40 EEST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.1.0/portapps.go:173 > Data path: D:\Games\PC Games\Little Fighter 2\LF2 Unofficial Update v3.0u\_Instructions\- Fullscreen Support\Program method (more control)\data
+Mon, 15 Apr 2024 22:04:40 EEST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.1.0/portapps.go:174 > Previous path: D:\Games\PC Games\Little Fighter 2\LF2 Unofficial Update v3.0u\_Instructions\- Fullscreen Support\Program method (more control)
+Mon, 15 Apr 2024 22:04:40 EEST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.1.0/portapps.go:180 > Launching Borderless Gaming
+Mon, 15 Apr 2024 22:04:40 EEST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.1.0/portapps.go:190 > Exec D:\Games\PC Games\Little Fighter 2\LF2 Unofficial Update v3.0u\_Instructions\- Fullscreen Support\Program method (more control)\app\BorderlessGaming.exe 
+Mon, 15 Apr 2024 22:04:45 EEST INF C:/Users/runneradmin/go/pkg/mod/github.com/portapps/portapps/v3@v3.1.0/portapps.go:214 > Closing Borderless Gaming

@@ -1,0 +1,1004 @@
+2023-06-09 08:37:40.566|info|XamlApp.cpp:Initialize|程序启动
+	版本：v0.10.3
+	管理员：是
+2023-06-09 08:37:40.639|info|AppSettings.cpp:Initialize|便携模式：否
+2023-06-09 08:38:21.516|info|AppSettings.cpp:IsPortableMode|已开启便携模式
+2023-06-09 08:38:28.047|info|XamlApp.cpp:_QuitWithoutMainWindow|程序退出
+2023-06-09 09:14:45.437|info|XamlApp.cpp:Initialize|程序启动
+	版本：v0.10.3
+	管理员：是
+2023-06-09 09:14:45.481|info|AppSettings.cpp:Initialize|便携模式：是
+2023-06-09 09:14:47.853|info|XamlApp.cpp:_QuitWithoutMainWindow|程序退出
+2023-06-11 12:14:10.781|info|XamlApp.cpp:Initialize|程序启动
+	版本：v0.10.3
+	管理员：是
+2023-06-11 12:14:10.842|info|AppSettings.cpp:Initialize|便携模式：是
+2023-06-11 12:14:43.458|info|XamlApp.cpp:_QuitWithoutMainWindow|程序退出
+2023-06-21 09:55:02.217|info|XamlApp.cpp:Initialize|程序启动
+	版本：v0.10.3
+	管理员：是
+2023-06-21 09:55:02.281|info|AppSettings.cpp:Initialize|便携模式：是
+2023-06-21 09:55:04.866|info|XamlApp.cpp:_QuitWithoutMainWindow|程序退出
+2023-06-26 19:35:09.538|info|XamlApp.cpp:Initialize|程序启动
+	版本：v0.10.3
+	管理员：是
+2023-06-26 19:35:09.609|info|AppSettings.cpp:Initialize|便携模式：是
+2023-06-26 19:35:14.581|info|XamlApp.cpp:_QuitWithoutMainWindow|程序退出
+2023-06-29 09:43:09.644|info|XamlApp.cpp:Initialize|程序启动
+	版本：v0.10.3
+	管理员：是
+2023-06-29 09:43:09.705|info|AppSettings.cpp:Initialize|便携模式：是
+2023-06-29 09:43:12.823|info|XamlApp.cpp:_QuitWithoutMainWindow|程序退出
+2023-06-30 12:01:16.697|info|XamlApp.cpp:Initialize|程序启动
+	版本：v0.10.3
+	管理员：是
+2023-06-30 12:01:16.755|info|AppSettings.cpp:Initialize|便携模式：是
+2023-06-30 12:01:19.934|info|XamlApp.cpp:_QuitWithoutMainWindow|程序退出
+2023-07-01 10:27:36.804|info|XamlApp.cpp:Initialize|程序启动
+	版本：v0.10.3
+	管理员：是
+2023-07-01 10:27:36.863|info|AppSettings.cpp:Initialize|便携模式：是
+2023-07-01 10:27:41.273|info|XamlApp.cpp:_QuitWithoutMainWindow|程序退出
+2023-07-04 11:49:57.513|info|XamlApp.cpp:Initialize|程序启动
+	版本：v0.10.3
+	管理员：是
+2023-07-04 11:49:57.571|info|AppSettings.cpp:Initialize|便携模式：是
+2023-07-04 11:50:00.947|info|XamlApp.cpp:_QuitWithoutMainWindow|程序退出
+2023-07-06 14:17:43.117|info|XamlApp.cpp:Initialize|程序启动
+	版本：v0.10.3
+	管理员：是
+2023-07-06 14:17:43.183|info|AppSettings.cpp:Initialize|便携模式：是
+2023-07-06 14:18:02.961|info|XamlApp.cpp:_QuitWithoutMainWindow|程序退出
+2023-07-07 14:46:30.436|info|XamlApp.cpp:Initialize|程序启动
+	版本：v0.10.3
+	管理员：是
+2023-07-07 14:46:30.492|info|AppSettings.cpp:Initialize|便携模式：是
+2023-07-07 14:47:13.504|info|XamlApp.cpp:_QuitWithoutMainWindow|程序退出
+2023-07-09 10:21:23.030|info|XamlApp.cpp:Initialize|程序启动
+	版本：v0.10.3
+	管理员：是
+2023-07-09 10:21:23.087|info|AppSettings.cpp:Initialize|便携模式：是
+2023-07-09 10:21:39.340|info|XamlApp.cpp:_QuitWithoutMainWindow|程序退出
+2023-07-10 08:53:16.012|info|XamlApp.cpp:Initialize|程序启动
+	版本：v0.10.3
+	管理员：是
+2023-07-10 08:53:16.071|info|AppSettings.cpp:Initialize|便携模式：是
+2023-07-10 08:53:19.752|info|XamlApp.cpp:_QuitWithoutMainWindow|程序退出
+2023-08-08 11:34:15.589|info|XamlApp.cpp:Initialize|程序启动
+	版本：v0.10.3
+	管理员：是
+2023-08-08 11:34:15.687|info|AppSettings.cpp:Initialize|便携模式：是
+2023-08-08 11:34:30.497|info|XamlApp.cpp:_QuitWithoutMainWindow|程序退出
+2023-08-20 10:54:55.994|info|XamlApp.cpp:Initialize|程序启动
+	版本：v0.10.3
+	管理员：是
+2023-08-20 10:54:56.057|info|AppSettings.cpp:Initialize|便携模式：是
+2023-08-20 10:54:59.131|info|XamlApp.cpp:_QuitWithoutMainWindow|程序退出
+2023-09-11 15:44:07.168|info|XamlApp.cpp:Initialize|程序启动
+	版本：v0.10.3
+	管理员：是
+2023-09-11 15:44:07.243|info|AppSettings.cpp:Initialize|便携模式：是
+2023-09-11 15:44:10.214|info|XamlApp.cpp:_QuitWithoutMainWindow|程序退出
+2023-09-23 16:48:17.471|info|XamlApp.cpp:Initialize|程序启动
+	版本：v0.10.3
+	管理员：是
+2023-09-23 16:48:17.548|info|AppSettings.cpp:Initialize|便携模式：是
+2023-09-23 16:49:01.864|info|MagApp.cpp:_CreateHostWnd|缩放窗口尺寸：1920x1080
+2023-09-23 16:49:01.864|info|DeviceResources.cpp:Initialize|可变刷新率支持：是
+2023-09-23 16:49:01.902|info|DeviceResources.cpp:_TryCreateD3DDevice|已创建 D3D Device
+	功能级别：11.1
+2023-09-23 16:49:01.902|info|DeviceResources.cpp:LogAdapter|当前图形适配器：
+	VendorId：0x10de
+	DeviceId：0x1f99
+	描述：NVIDIA GeForce GTX 1650
+2023-09-23 16:49:01.905|info|DeviceResources.cpp:_CreateSwapChain|Hardware Composition 支持：是
+2023-09-23 16:49:01.905|info|DeviceResources.cpp:_CreateSwapChain|Multiplane Overlay 支持：是
+2023-09-23 16:49:01.905|info|MagApp.cpp:_InitFrameSource|当前捕获模式：Graphics Capture
+2023-09-23 16:49:01.905|info|FrameSourceBase.cpp:Initialize|已禁用窗口圆角
+2023-09-23 16:49:01.982|info|GraphicsCaptureFrameSource.cpp:Initialize|GraphicsCaptureFrameSource 初始化完成
+2023-09-23 16:49:01.982|info|MagApp.cpp:_InitFrameSource|源窗口尺寸：1366x768
+2023-09-23 16:49:02.356|info|EffectCacheManager.cpp:Save|已保存缓存 cache\Lanczos_1cfc88f88f10091e3
+2023-09-23 16:49:02.356|info|Renderer.cpp:CompileEffect|编译 Lanczos.hlsl 用时 374.01602 毫秒
+2023-09-23 16:49:02.357|info|Win32Utils.cpp:ReadFile|读取文件：C:\Windows\Fonts\SegUIVar.ttf
+2023-09-23 16:49:02.370|info|CursorManager.cpp:Initialize|CursorManager 初始化完成
+2023-09-23 16:49:02.379|info|CursorManager.cpp:GetCursorTexture|已解析光标：0x1031f
+	类型：Color
+2023-09-23 16:52:12.151|info|Renderer.cpp:_CheckSrcState|前台窗口已改变
+2023-09-23 16:52:12.151|info|Renderer.cpp:Render|源窗口状态改变，退出全屏
+2023-09-23 16:52:12.158|info|FrameSourceBase.cpp:~FrameSourceBase|已取消禁用窗口圆角
+2023-09-23 16:52:29.945|info|XamlApp.cpp:_QuitWithoutMainWindow|程序退出
+2023-10-05 18:24:43.621|info|XamlApp.cpp:Initialize|程序启动
+	版本：v0.10.3
+	管理员：是
+2023-10-05 18:24:43.689|info|AppSettings.cpp:Initialize|便携模式：是
+2023-10-05 18:24:48.433|info|XamlApp.cpp:_QuitWithoutMainWindow|程序退出
+2023-10-08 09:38:51.446|info|XamlApp.cpp:Initialize|程序启动
+	版本：v0.10.3
+	管理员：是
+2023-10-08 09:38:51.527|info|AppSettings.cpp:Initialize|便携模式：是
+2023-10-08 09:39:11.552|info|ShortcutService.cpp:operator ()|热键 Scale 激活（Keyboard Hook）
+2023-10-08 09:39:11.556|info|MagApp.cpp:_CreateHostWnd|缩放窗口尺寸：1920x1080
+2023-10-08 09:39:11.557|info|DeviceResources.cpp:Initialize|可变刷新率支持：是
+2023-10-08 09:39:11.595|info|DeviceResources.cpp:_TryCreateD3DDevice|已创建 D3D Device
+	功能级别：11.1
+2023-10-08 09:39:11.595|info|DeviceResources.cpp:LogAdapter|当前图形适配器：
+	VendorId：0x10de
+	DeviceId：0x1f99
+	描述：NVIDIA GeForce GTX 1650
+2023-10-08 09:39:11.597|info|DeviceResources.cpp:_CreateSwapChain|Hardware Composition 支持：是
+2023-10-08 09:39:11.597|info|DeviceResources.cpp:_CreateSwapChain|Multiplane Overlay 支持：是
+2023-10-08 09:39:11.597|info|MagApp.cpp:_InitFrameSource|当前捕获模式：Graphics Capture
+2023-10-08 09:39:11.597|info|FrameSourceBase.cpp:Initialize|已禁用窗口圆角
+2023-10-08 09:39:11.770|info|GraphicsCaptureFrameSource.cpp:Initialize|GraphicsCaptureFrameSource 初始化完成
+2023-10-08 09:39:11.770|info|MagApp.cpp:_InitFrameSource|源窗口尺寸：1366x768
+2023-10-08 09:39:11.771|info|Win32Utils.cpp:ReadFile|读取文件：cache\Lanczos_1cfc88f88f10091e3
+2023-10-08 09:39:11.771|info|EffectCacheManager.cpp:Load|已读取缓存 cache\Lanczos_1cfc88f88f10091e3
+2023-10-08 09:39:11.771|info|Renderer.cpp:CompileEffect|编译 Lanczos.hlsl 用时 1.023 毫秒
+2023-10-08 09:39:11.773|info|Win32Utils.cpp:ReadFile|读取文件：cache\fonts_ru
+2023-10-08 09:39:11.774|info|CursorManager.cpp:Initialize|CursorManager 初始化完成
+2023-10-08 09:39:11.788|info|CursorManager.cpp:GetCursorTexture|已解析光标：0xdf20c4f
+	类型：Color
+2023-10-08 09:39:59.803|info|Renderer.cpp:_CheckSrcState|前台窗口已改变
+2023-10-08 09:39:59.803|info|Renderer.cpp:Render|源窗口状态改变，退出全屏
+2023-10-08 09:39:59.808|info|FrameSourceBase.cpp:~FrameSourceBase|已取消禁用窗口圆角
+2023-10-08 09:41:43.708|info|ShortcutService.cpp:operator ()|热键 Scale 激活（Keyboard Hook）
+2023-10-08 09:41:43.711|info|MagApp.cpp:_CreateHostWnd|缩放窗口尺寸：1920x1080
+2023-10-08 09:41:43.711|info|DeviceResources.cpp:Initialize|可变刷新率支持：是
+2023-10-08 09:41:43.754|info|DeviceResources.cpp:_TryCreateD3DDevice|已创建 D3D Device
+	功能级别：11.1
+2023-10-08 09:41:43.754|info|DeviceResources.cpp:LogAdapter|当前图形适配器：
+	VendorId：0x10de
+	DeviceId：0x1f99
+	描述：NVIDIA GeForce GTX 1650
+2023-10-08 09:41:43.756|info|DeviceResources.cpp:_CreateSwapChain|Hardware Composition 支持：是
+2023-10-08 09:41:43.756|info|DeviceResources.cpp:_CreateSwapChain|Multiplane Overlay 支持：是
+2023-10-08 09:41:43.756|info|MagApp.cpp:_InitFrameSource|当前捕获模式：Graphics Capture
+2023-10-08 09:41:43.756|info|FrameSourceBase.cpp:Initialize|已禁用窗口圆角
+2023-10-08 09:41:43.898|info|GraphicsCaptureFrameSource.cpp:Initialize|GraphicsCaptureFrameSource 初始化完成
+2023-10-08 09:41:43.898|info|MagApp.cpp:_InitFrameSource|源窗口尺寸：1366x768
+2023-10-08 09:41:43.898|info|EffectCacheManager.cpp:_LoadFromMemCache|已读取缓存 cache\Lanczos_1cfc88f88f10091e3
+2023-10-08 09:41:43.898|info|Renderer.cpp:CompileEffect|编译 Lanczos.hlsl 用时 0.149 毫秒
+2023-10-08 09:41:43.900|info|CursorManager.cpp:Initialize|CursorManager 初始化完成
+2023-10-08 09:41:43.913|info|CursorManager.cpp:GetCursorTexture|已解析光标：0xdf20c4f
+	类型：Color
+2023-10-08 09:43:06.912|info|Renderer.cpp:_CheckSrcState|前台窗口已改变
+2023-10-08 09:43:06.912|info|Renderer.cpp:Render|源窗口状态改变，退出全屏
+2023-10-08 09:43:06.918|info|FrameSourceBase.cpp:~FrameSourceBase|已取消禁用窗口圆角
+2023-10-08 09:43:26.410|info|ShortcutService.cpp:operator ()|热键 Scale 激活（Keyboard Hook）
+2023-10-08 09:43:26.413|info|MagApp.cpp:_CreateHostWnd|缩放窗口尺寸：1920x1080
+2023-10-08 09:43:26.414|info|DeviceResources.cpp:Initialize|可变刷新率支持：是
+2023-10-08 09:43:26.455|info|DeviceResources.cpp:_TryCreateD3DDevice|已创建 D3D Device
+	功能级别：11.1
+2023-10-08 09:43:26.455|info|DeviceResources.cpp:LogAdapter|当前图形适配器：
+	VendorId：0x10de
+	DeviceId：0x1f99
+	描述：NVIDIA GeForce GTX 1650
+2023-10-08 09:43:26.458|info|DeviceResources.cpp:_CreateSwapChain|Hardware Composition 支持：是
+2023-10-08 09:43:26.458|info|DeviceResources.cpp:_CreateSwapChain|Multiplane Overlay 支持：是
+2023-10-08 09:43:26.458|info|MagApp.cpp:_InitFrameSource|当前捕获模式：Graphics Capture
+2023-10-08 09:43:26.458|info|FrameSourceBase.cpp:Initialize|已禁用窗口圆角
+2023-10-08 09:43:26.636|info|GraphicsCaptureFrameSource.cpp:Initialize|GraphicsCaptureFrameSource 初始化完成
+2023-10-08 09:43:26.636|info|MagApp.cpp:_InitFrameSource|源窗口尺寸：1366x768
+2023-10-08 09:43:26.636|info|EffectCacheManager.cpp:_LoadFromMemCache|已读取缓存 cache\Lanczos_1cfc88f88f10091e3
+2023-10-08 09:43:26.636|info|Renderer.cpp:CompileEffect|编译 Lanczos.hlsl 用时 0.136 毫秒
+2023-10-08 09:43:26.638|info|CursorManager.cpp:Initialize|CursorManager 初始化完成
+2023-10-08 09:43:33.334|info|Renderer.cpp:_CheckSrcState|前台窗口已改变
+2023-10-08 09:43:33.334|info|Renderer.cpp:Render|源窗口状态改变，退出全屏
+2023-10-08 09:43:33.343|info|FrameSourceBase.cpp:~FrameSourceBase|已取消禁用窗口圆角
+2023-10-08 09:44:33.055|info|ShortcutService.cpp:operator ()|热键 Scale 激活（Keyboard Hook）
+2023-10-08 09:44:33.058|info|MagApp.cpp:_CreateHostWnd|缩放窗口尺寸：1920x1080
+2023-10-08 09:44:33.058|info|DeviceResources.cpp:Initialize|可变刷新率支持：是
+2023-10-08 09:44:33.104|info|DeviceResources.cpp:_TryCreateD3DDevice|已创建 D3D Device
+	功能级别：11.1
+2023-10-08 09:44:33.104|info|DeviceResources.cpp:LogAdapter|当前图形适配器：
+	VendorId：0x10de
+	DeviceId：0x1f99
+	描述：NVIDIA GeForce GTX 1650
+2023-10-08 09:44:33.107|info|DeviceResources.cpp:_CreateSwapChain|Hardware Composition 支持：是
+2023-10-08 09:44:33.107|info|DeviceResources.cpp:_CreateSwapChain|Multiplane Overlay 支持：是
+2023-10-08 09:44:33.107|info|MagApp.cpp:_InitFrameSource|当前捕获模式：Graphics Capture
+2023-10-08 09:44:33.107|info|FrameSourceBase.cpp:Initialize|已禁用窗口圆角
+2023-10-08 09:44:33.292|info|GraphicsCaptureFrameSource.cpp:Initialize|GraphicsCaptureFrameSource 初始化完成
+2023-10-08 09:44:33.292|info|MagApp.cpp:_InitFrameSource|源窗口尺寸：1366x768
+2023-10-08 09:44:33.292|info|EffectCacheManager.cpp:_LoadFromMemCache|已读取缓存 cache\Lanczos_1cfc88f88f10091e3
+2023-10-08 09:44:33.292|info|Renderer.cpp:CompileEffect|编译 Lanczos.hlsl 用时 0.14400001 毫秒
+2023-10-08 09:44:33.293|info|CursorManager.cpp:Initialize|CursorManager 初始化完成
+2023-10-08 09:44:38.102|info|Renderer.cpp:_CheckSrcState|前台窗口已改变
+2023-10-08 09:44:38.102|info|Renderer.cpp:Render|源窗口状态改变，退出全屏
+2023-10-08 09:44:38.110|info|FrameSourceBase.cpp:~FrameSourceBase|已取消禁用窗口圆角
+2023-10-08 09:44:52.321|info|ShortcutService.cpp:operator ()|热键 Scale 激活（Keyboard Hook）
+2023-10-08 09:44:52.325|info|MagApp.cpp:_CreateHostWnd|缩放窗口尺寸：1920x1080
+2023-10-08 09:44:52.325|info|DeviceResources.cpp:Initialize|可变刷新率支持：是
+2023-10-08 09:44:52.371|info|DeviceResources.cpp:_TryCreateD3DDevice|已创建 D3D Device
+	功能级别：11.1
+2023-10-08 09:44:52.371|info|DeviceResources.cpp:LogAdapter|当前图形适配器：
+	VendorId：0x10de
+	DeviceId：0x1f99
+	描述：NVIDIA GeForce GTX 1650
+2023-10-08 09:44:52.375|info|DeviceResources.cpp:_CreateSwapChain|Hardware Composition 支持：是
+2023-10-08 09:44:52.375|info|DeviceResources.cpp:_CreateSwapChain|Multiplane Overlay 支持：是
+2023-10-08 09:44:52.375|info|MagApp.cpp:_InitFrameSource|当前捕获模式：Graphics Capture
+2023-10-08 09:44:52.375|info|FrameSourceBase.cpp:Initialize|已禁用窗口圆角
+2023-10-08 09:44:52.604|info|GraphicsCaptureFrameSource.cpp:Initialize|GraphicsCaptureFrameSource 初始化完成
+2023-10-08 09:44:52.604|info|MagApp.cpp:_InitFrameSource|源窗口尺寸：1366x768
+2023-10-08 09:44:52.604|info|EffectCacheManager.cpp:_LoadFromMemCache|已读取缓存 cache\Lanczos_1cfc88f88f10091e3
+2023-10-08 09:44:52.604|info|Renderer.cpp:CompileEffect|编译 Lanczos.hlsl 用时 0.186 毫秒
+2023-10-08 09:44:52.606|info|CursorManager.cpp:Initialize|CursorManager 初始化完成
+2023-10-08 09:45:28.615|info|ShortcutService.cpp:operator ()|热键 Scale 激活（Keyboard Hook）
+2023-10-08 09:45:28.622|info|FrameSourceBase.cpp:~FrameSourceBase|已取消禁用窗口圆角
+2023-10-08 10:00:01.872|info|XamlApp.cpp:_QuitWithoutMainWindow|程序退出
+2023-10-08 15:10:31.855|info|XamlApp.cpp:Initialize|程序启动
+	版本：v0.10.3
+	管理员：是
+2023-10-08 15:10:31.937|info|AppSettings.cpp:Initialize|便携模式：是
+2023-10-08 15:10:36.256|info|ShortcutService.cpp:operator ()|热键 Scale 激活（Keyboard Hook）
+2023-10-08 15:10:36.261|info|MagApp.cpp:_CreateHostWnd|缩放窗口尺寸：1920x1080
+2023-10-08 15:10:36.261|info|DeviceResources.cpp:Initialize|可变刷新率支持：是
+2023-10-08 15:10:36.304|info|DeviceResources.cpp:_TryCreateD3DDevice|已创建 D3D Device
+	功能级别：11.1
+2023-10-08 15:10:36.304|info|DeviceResources.cpp:LogAdapter|当前图形适配器：
+	VendorId：0x10de
+	DeviceId：0x1f99
+	描述：NVIDIA GeForce GTX 1650
+2023-10-08 15:10:36.307|info|DeviceResources.cpp:_CreateSwapChain|Hardware Composition 支持：是
+2023-10-08 15:10:36.307|info|DeviceResources.cpp:_CreateSwapChain|Multiplane Overlay 支持：是
+2023-10-08 15:10:36.307|info|MagApp.cpp:_InitFrameSource|当前捕获模式：Graphics Capture
+2023-10-08 15:10:36.307|info|FrameSourceBase.cpp:Initialize|已禁用窗口圆角
+2023-10-08 15:10:36.415|info|GraphicsCaptureFrameSource.cpp:Initialize|GraphicsCaptureFrameSource 初始化完成
+2023-10-08 15:10:36.415|info|MagApp.cpp:_InitFrameSource|源窗口尺寸：1280x720
+2023-10-08 15:10:36.416|info|Win32Utils.cpp:ReadFile|读取文件：cache\Lanczos_1cfc88f88f10091e3
+2023-10-08 15:10:36.416|info|EffectCacheManager.cpp:Load|已读取缓存 cache\Lanczos_1cfc88f88f10091e3
+2023-10-08 15:10:36.416|info|Renderer.cpp:CompileEffect|编译 Lanczos.hlsl 用时 0.836 毫秒
+2023-10-08 15:10:36.417|info|Win32Utils.cpp:ReadFile|读取文件：cache\fonts_ru
+2023-10-08 15:10:36.419|info|CursorManager.cpp:Initialize|CursorManager 初始化完成
+2023-10-08 15:10:55.291|info|CursorManager.cpp:GetCursorTexture|已解析光标：0x56d0b91
+	类型：Color
+2023-10-08 15:11:00.185|info|Renderer.cpp:_CheckSrcState|前台窗口已改变
+2023-10-08 15:11:00.185|info|Renderer.cpp:Render|源窗口状态改变，退出全屏
+2023-10-08 15:11:00.198|info|FrameSourceBase.cpp:~FrameSourceBase|已取消禁用窗口圆角
+2023-10-08 15:11:15.574|info|ShortcutService.cpp:operator ()|热键 Scale 激活（Keyboard Hook）
+2023-10-08 15:11:15.579|info|MagApp.cpp:_CreateHostWnd|缩放窗口尺寸：1920x1080
+2023-10-08 15:11:15.579|info|DeviceResources.cpp:Initialize|可变刷新率支持：是
+2023-10-08 15:11:15.628|info|DeviceResources.cpp:_TryCreateD3DDevice|已创建 D3D Device
+	功能级别：11.1
+2023-10-08 15:11:15.628|info|DeviceResources.cpp:LogAdapter|当前图形适配器：
+	VendorId：0x10de
+	DeviceId：0x1f99
+	描述：NVIDIA GeForce GTX 1650
+2023-10-08 15:11:15.630|info|DeviceResources.cpp:_CreateSwapChain|Hardware Composition 支持：是
+2023-10-08 15:11:15.630|info|DeviceResources.cpp:_CreateSwapChain|Multiplane Overlay 支持：是
+2023-10-08 15:11:15.630|info|MagApp.cpp:_InitFrameSource|当前捕获模式：Graphics Capture
+2023-10-08 15:11:15.630|info|FrameSourceBase.cpp:Initialize|已禁用窗口圆角
+2023-10-08 15:11:15.737|info|GraphicsCaptureFrameSource.cpp:Initialize|GraphicsCaptureFrameSource 初始化完成
+2023-10-08 15:11:15.737|info|MagApp.cpp:_InitFrameSource|源窗口尺寸：1280x720
+2023-10-08 15:11:15.737|info|EffectCacheManager.cpp:_LoadFromMemCache|已读取缓存 cache\Lanczos_1cfc88f88f10091e3
+2023-10-08 15:11:15.737|info|Renderer.cpp:CompileEffect|编译 Lanczos.hlsl 用时 0.15 毫秒
+2023-10-08 15:11:15.739|info|CursorManager.cpp:Initialize|CursorManager 初始化完成
+2023-10-08 15:11:56.460|info|CursorManager.cpp:GetCursorTexture|已解析光标：0x56d0b91
+	类型：Color
+2023-10-08 15:12:00.548|info|Renderer.cpp:_CheckSrcState|源窗口位置或大小改变
+2023-10-08 15:12:00.548|info|Renderer.cpp:Render|源窗口状态改变，退出全屏
+2023-10-08 15:12:00.564|info|FrameSourceBase.cpp:~FrameSourceBase|已取消禁用窗口圆角
+2023-10-08 15:12:00.595|info|MagApp.cpp:_CreateHostWnd|缩放窗口尺寸：1920x1080
+2023-10-08 15:12:00.596|info|DeviceResources.cpp:Initialize|可变刷新率支持：是
+2023-10-08 15:12:00.645|info|DeviceResources.cpp:_TryCreateD3DDevice|已创建 D3D Device
+	功能级别：11.1
+2023-10-08 15:12:00.645|info|DeviceResources.cpp:LogAdapter|当前图形适配器：
+	VendorId：0x10de
+	DeviceId：0x1f99
+	描述：NVIDIA GeForce GTX 1650
+2023-10-08 15:12:00.649|info|DeviceResources.cpp:_CreateSwapChain|Hardware Composition 支持：是
+2023-10-08 15:12:00.649|info|DeviceResources.cpp:_CreateSwapChain|Multiplane Overlay 支持：是
+2023-10-08 15:12:00.649|info|MagApp.cpp:_InitFrameSource|当前捕获模式：Graphics Capture
+2023-10-08 15:12:00.649|info|FrameSourceBase.cpp:Initialize|已禁用窗口圆角
+2023-10-08 15:12:00.805|info|GraphicsCaptureFrameSource.cpp:Initialize|GraphicsCaptureFrameSource 初始化完成
+2023-10-08 15:12:00.805|info|MagApp.cpp:_InitFrameSource|源窗口尺寸：1366x768
+2023-10-08 15:12:00.805|info|EffectCacheManager.cpp:_LoadFromMemCache|已读取缓存 cache\Lanczos_1cfc88f88f10091e3
+2023-10-08 15:12:00.805|info|Renderer.cpp:CompileEffect|编译 Lanczos.hlsl 用时 0.259 毫秒
+2023-10-08 15:12:00.807|info|CursorManager.cpp:Initialize|CursorManager 初始化完成
+2023-10-08 15:12:00.822|info|CursorManager.cpp:GetCursorTexture|已解析光标：0x56d0b91
+	类型：Color
+2023-10-08 15:12:33.999|info|Renderer.cpp:_CheckSrcState|前台窗口已改变
+2023-10-08 15:12:33.999|info|Renderer.cpp:Render|源窗口状态改变，退出全屏
+2023-10-08 15:12:34.017|info|FrameSourceBase.cpp:~FrameSourceBase|已取消禁用窗口圆角
+2023-10-08 15:12:40.046|info|ShortcutService.cpp:operator ()|热键 Scale 激活（Keyboard Hook）
+2023-10-08 15:12:40.052|info|MagApp.cpp:_CreateHostWnd|缩放窗口尺寸：1920x1080
+2023-10-08 15:12:40.052|info|DeviceResources.cpp:Initialize|可变刷新率支持：是
+2023-10-08 15:12:40.108|info|DeviceResources.cpp:_TryCreateD3DDevice|已创建 D3D Device
+	功能级别：11.1
+2023-10-08 15:12:40.108|info|DeviceResources.cpp:LogAdapter|当前图形适配器：
+	VendorId：0x10de
+	DeviceId：0x1f99
+	描述：NVIDIA GeForce GTX 1650
+2023-10-08 15:12:40.111|info|DeviceResources.cpp:_CreateSwapChain|Hardware Composition 支持：是
+2023-10-08 15:12:40.111|info|DeviceResources.cpp:_CreateSwapChain|Multiplane Overlay 支持：是
+2023-10-08 15:12:40.111|info|MagApp.cpp:_InitFrameSource|当前捕获模式：Graphics Capture
+2023-10-08 15:12:40.111|info|FrameSourceBase.cpp:Initialize|已禁用窗口圆角
+2023-10-08 15:12:40.244|info|GraphicsCaptureFrameSource.cpp:Initialize|GraphicsCaptureFrameSource 初始化完成
+2023-10-08 15:12:40.244|info|MagApp.cpp:_InitFrameSource|源窗口尺寸：1366x768
+2023-10-08 15:12:40.939|info|EffectCacheManager.cpp:Save|已保存缓存 cache\FSRCNNX#FSRCNNX_1569c593ad5db05e0
+2023-10-08 15:12:40.939|info|Renderer.cpp:CompileEffect|编译 FSRCNNX\FSRCNNX.hlsl 用时 695.223 毫秒
+2023-10-08 15:12:41.438|info|EffectCacheManager.cpp:Save|已保存缓存 cache\Bicubic_370e0d4132e257371
+2023-10-08 15:12:41.438|info|Renderer.cpp:CompileEffect|编译 Bicubic.hlsl 用时 496.48502 毫秒
+2023-10-08 15:12:41.685|info|EffectCacheManager.cpp:Save|已保存缓存 cache\FSRCNNX#FSRCNNX_0569c593ad5db05e0
+2023-10-08 15:12:41.685|info|Renderer.cpp:CompileEffect|编译 FSRCNNX\FSRCNNX.hlsl 用时 743.82404 毫秒
+2023-10-08 15:12:41.685|info|Renderer.cpp:_BuildEffects|编译降采样着色器用时 743.84503 毫秒
+2023-10-08 15:12:41.689|info|CursorManager.cpp:Initialize|CursorManager 初始化完成
+2023-10-08 15:12:41.853|info|Renderer.cpp:_CheckSrcState|前台窗口已改变
+2023-10-08 15:12:41.853|info|Renderer.cpp:Render|源窗口状态改变，退出全屏
+2023-10-08 15:12:41.875|info|FrameSourceBase.cpp:~FrameSourceBase|已取消禁用窗口圆角
+2023-10-08 15:12:43.232|info|ShortcutService.cpp:operator ()|热键 Scale 激活（Keyboard Hook）
+2023-10-08 15:12:43.236|info|MagApp.cpp:_CreateHostWnd|缩放窗口尺寸：1920x1080
+2023-10-08 15:12:43.236|info|DeviceResources.cpp:Initialize|可变刷新率支持：是
+2023-10-08 15:12:43.282|info|DeviceResources.cpp:_TryCreateD3DDevice|已创建 D3D Device
+	功能级别：11.1
+2023-10-08 15:12:43.282|info|DeviceResources.cpp:LogAdapter|当前图形适配器：
+	VendorId：0x10de
+	DeviceId：0x1f99
+	描述：NVIDIA GeForce GTX 1650
+2023-10-08 15:12:43.285|info|DeviceResources.cpp:_CreateSwapChain|Hardware Composition 支持：是
+2023-10-08 15:12:43.285|info|DeviceResources.cpp:_CreateSwapChain|Multiplane Overlay 支持：是
+2023-10-08 15:12:43.285|info|MagApp.cpp:_InitFrameSource|当前捕获模式：Graphics Capture
+2023-10-08 15:12:43.285|info|FrameSourceBase.cpp:Initialize|已禁用窗口圆角
+2023-10-08 15:12:43.385|info|GraphicsCaptureFrameSource.cpp:Initialize|GraphicsCaptureFrameSource 初始化完成
+2023-10-08 15:12:43.385|info|MagApp.cpp:_InitFrameSource|源窗口尺寸：1366x768
+2023-10-08 15:12:43.385|info|EffectCacheManager.cpp:_LoadFromMemCache|已读取缓存 cache\FSRCNNX#FSRCNNX_1569c593ad5db05e0
+2023-10-08 15:12:43.385|info|Renderer.cpp:CompileEffect|编译 FSRCNNX\FSRCNNX.hlsl 用时 0.418 毫秒
+2023-10-08 15:12:43.389|info|EffectCacheManager.cpp:_LoadFromMemCache|已读取缓存 cache\Bicubic_370e0d4132e257371
+2023-10-08 15:12:43.389|info|Renderer.cpp:CompileEffect|编译 Bicubic.hlsl 用时 0.21200001 毫秒
+2023-10-08 15:12:43.389|info|EffectCacheManager.cpp:_LoadFromMemCache|已读取缓存 cache\FSRCNNX#FSRCNNX_0569c593ad5db05e0
+2023-10-08 15:12:43.389|info|Renderer.cpp:CompileEffect|编译 FSRCNNX\FSRCNNX.hlsl 用时 0.41500002 毫秒
+2023-10-08 15:12:43.389|info|Renderer.cpp:_BuildEffects|编译降采样着色器用时 0.42900002 毫秒
+2023-10-08 15:12:43.393|info|CursorManager.cpp:Initialize|CursorManager 初始化完成
+2023-10-08 15:12:47.924|info|ShortcutService.cpp:operator ()|热键 Scale 激活（Keyboard Hook）
+2023-10-08 15:12:47.937|info|FrameSourceBase.cpp:~FrameSourceBase|已取消禁用窗口圆角
+2023-10-08 15:13:09.316|info|ShortcutService.cpp:operator ()|热键 Scale 激活（Keyboard Hook）
+2023-10-08 15:13:09.323|info|MagApp.cpp:_CreateHostWnd|缩放窗口尺寸：1920x1080
+2023-10-08 15:13:09.323|info|DeviceResources.cpp:Initialize|可变刷新率支持：是
+2023-10-08 15:13:09.367|info|DeviceResources.cpp:_TryCreateD3DDevice|已创建 D3D Device
+	功能级别：11.1
+2023-10-08 15:13:09.367|info|DeviceResources.cpp:LogAdapter|当前图形适配器：
+	VendorId：0x10de
+	DeviceId：0x1f99
+	描述：NVIDIA GeForce GTX 1650
+2023-10-08 15:13:09.370|info|DeviceResources.cpp:_CreateSwapChain|Hardware Composition 支持：是
+2023-10-08 15:13:09.370|info|DeviceResources.cpp:_CreateSwapChain|Multiplane Overlay 支持：是
+2023-10-08 15:13:09.370|info|MagApp.cpp:_InitFrameSource|当前捕获模式：Graphics Capture
+2023-10-08 15:13:09.370|info|FrameSourceBase.cpp:Initialize|已禁用窗口圆角
+2023-10-08 15:13:09.470|info|GraphicsCaptureFrameSource.cpp:Initialize|GraphicsCaptureFrameSource 初始化完成
+2023-10-08 15:13:09.470|info|MagApp.cpp:_InitFrameSource|源窗口尺寸：1366x768
+2023-10-08 15:13:09.686|info|EffectCacheManager.cpp:Save|已保存缓存 cache\FSR#FSR_RCAS_1443285dfc8fe0125
+2023-10-08 15:13:09.686|info|Renderer.cpp:CompileEffect|编译 FSR\FSR_RCAS.hlsl 用时 215.473 毫秒
+2023-10-08 15:13:10.318|info|EffectCacheManager.cpp:Save|已保存缓存 cache\FSR#FSR_EASU_06bd473fc886ba5a3
+2023-10-08 15:13:10.318|info|Renderer.cpp:CompileEffect|编译 FSR\FSR_EASU.hlsl 用时 847.78107 毫秒
+2023-10-08 15:13:10.318|info|Renderer.cpp:_BuildEffects|编译着色器总计用时 847.79803 毫秒
+2023-10-08 15:13:10.320|info|CursorManager.cpp:Initialize|CursorManager 初始化完成
+2023-10-08 15:13:43.562|info|CursorManager.cpp:GetCursorTexture|已解析光标：0x56d0b91
+	类型：Color
+2023-10-08 15:14:02.032|info|Renderer.cpp:_CheckSrcState|前台窗口已改变
+2023-10-08 15:14:02.032|info|Renderer.cpp:Render|源窗口状态改变，退出全屏
+2023-10-08 15:14:02.049|info|FrameSourceBase.cpp:~FrameSourceBase|已取消禁用窗口圆角
+2023-10-08 15:14:14.926|info|ShortcutService.cpp:operator ()|热键 Scale 激活（Keyboard Hook）
+2023-10-08 15:14:14.931|info|MagApp.cpp:_CreateHostWnd|缩放窗口尺寸：1920x1080
+2023-10-08 15:14:14.931|info|DeviceResources.cpp:Initialize|可变刷新率支持：是
+2023-10-08 15:14:14.977|info|DeviceResources.cpp:_TryCreateD3DDevice|已创建 D3D Device
+	功能级别：11.1
+2023-10-08 15:14:14.977|info|DeviceResources.cpp:LogAdapter|当前图形适配器：
+	VendorId：0x10de
+	DeviceId：0x1f99
+	描述：NVIDIA GeForce GTX 1650
+2023-10-08 15:14:14.980|info|DeviceResources.cpp:_CreateSwapChain|Hardware Composition 支持：是
+2023-10-08 15:14:14.980|info|DeviceResources.cpp:_CreateSwapChain|Multiplane Overlay 支持：是
+2023-10-08 15:14:14.980|info|MagApp.cpp:_InitFrameSource|当前捕获模式：Graphics Capture
+2023-10-08 15:14:14.980|info|FrameSourceBase.cpp:Initialize|已禁用窗口圆角
+2023-10-08 15:14:15.079|info|GraphicsCaptureFrameSource.cpp:Initialize|GraphicsCaptureFrameSource 初始化完成
+2023-10-08 15:14:15.079|info|MagApp.cpp:_InitFrameSource|源窗口尺寸：1366x768
+2023-10-08 15:14:15.079|info|EffectCacheManager.cpp:_LoadFromMemCache|已读取缓存 cache\FSR#FSR_EASU_06bd473fc886ba5a3
+2023-10-08 15:14:15.079|info|Renderer.cpp:CompileEffect|编译 FSR\FSR_EASU.hlsl 用时 0.171 毫秒
+2023-10-08 15:14:15.079|info|EffectCacheManager.cpp:_LoadFromMemCache|已读取缓存 cache\FSR#FSR_RCAS_1443285dfc8fe0125
+2023-10-08 15:14:15.079|info|Renderer.cpp:CompileEffect|编译 FSR\FSR_RCAS.hlsl 用时 0.17600001 毫秒
+2023-10-08 15:14:15.079|info|Renderer.cpp:_BuildEffects|编译着色器总计用时 0.20300001 毫秒
+2023-10-08 15:14:15.081|info|CursorManager.cpp:Initialize|CursorManager 初始化完成
+2023-10-08 15:14:21.991|info|CursorManager.cpp:GetCursorTexture|已解析光标：0x56d0b91
+	类型：Color
+2023-10-08 15:14:26.362|info|Renderer.cpp:_CheckSrcState|源窗口位置或大小改变
+2023-10-08 15:14:26.362|info|Renderer.cpp:Render|源窗口状态改变，退出全屏
+2023-10-08 15:14:26.380|info|FrameSourceBase.cpp:~FrameSourceBase|已取消禁用窗口圆角
+2023-10-08 15:14:26.410|info|MagApp.cpp:_CreateHostWnd|缩放窗口尺寸：1920x1080
+2023-10-08 15:14:26.411|info|DeviceResources.cpp:Initialize|可变刷新率支持：是
+2023-10-08 15:14:26.475|info|DeviceResources.cpp:_TryCreateD3DDevice|已创建 D3D Device
+	功能级别：11.1
+2023-10-08 15:14:26.475|info|DeviceResources.cpp:LogAdapter|当前图形适配器：
+	VendorId：0x10de
+	DeviceId：0x1f99
+	描述：NVIDIA GeForce GTX 1650
+2023-10-08 15:14:26.478|info|DeviceResources.cpp:_CreateSwapChain|Hardware Composition 支持：是
+2023-10-08 15:14:26.478|info|DeviceResources.cpp:_CreateSwapChain|Multiplane Overlay 支持：是
+2023-10-08 15:14:26.478|info|MagApp.cpp:_InitFrameSource|当前捕获模式：Graphics Capture
+2023-10-08 15:14:26.478|info|FrameSourceBase.cpp:Initialize|已禁用窗口圆角
+2023-10-08 15:14:26.634|info|GraphicsCaptureFrameSource.cpp:Initialize|GraphicsCaptureFrameSource 初始化完成
+2023-10-08 15:14:26.634|info|MagApp.cpp:_InitFrameSource|源窗口尺寸：1280x720
+2023-10-08 15:14:26.634|info|EffectCacheManager.cpp:_LoadFromMemCache|已读取缓存 cache\FSR#FSR_RCAS_1443285dfc8fe0125
+2023-10-08 15:14:26.634|info|Renderer.cpp:CompileEffect|编译 FSR\FSR_RCAS.hlsl 用时 0.27 毫秒
+2023-10-08 15:14:26.634|info|EffectCacheManager.cpp:_LoadFromMemCache|已读取缓存 cache\FSR#FSR_EASU_06bd473fc886ba5a3
+2023-10-08 15:14:26.634|info|Renderer.cpp:CompileEffect|编译 FSR\FSR_EASU.hlsl 用时 0.29900002 毫秒
+2023-10-08 15:14:26.634|info|Renderer.cpp:_BuildEffects|编译着色器总计用时 0.317 毫秒
+2023-10-08 15:14:26.636|info|CursorManager.cpp:Initialize|CursorManager 初始化完成
+2023-10-08 15:14:26.656|info|CursorManager.cpp:GetCursorTexture|已解析光标：0x56d0b91
+	类型：Color
+2023-10-08 15:14:40.033|info|Renderer.cpp:_CheckSrcState|前台窗口已改变
+2023-10-08 15:14:40.033|info|Renderer.cpp:Render|源窗口状态改变，退出全屏
+2023-10-08 15:14:40.045|info|FrameSourceBase.cpp:~FrameSourceBase|已取消禁用窗口圆角
+2023-10-08 15:14:46.184|info|ShortcutService.cpp:operator ()|热键 Scale 激活（Keyboard Hook）
+2023-10-08 15:14:46.190|info|MagApp.cpp:_CreateHostWnd|缩放窗口尺寸：1920x1080
+2023-10-08 15:14:46.190|info|DeviceResources.cpp:Initialize|可变刷新率支持：是
+2023-10-08 15:14:46.234|info|DeviceResources.cpp:_TryCreateD3DDevice|已创建 D3D Device
+	功能级别：11.1
+2023-10-08 15:14:46.234|info|DeviceResources.cpp:LogAdapter|当前图形适配器：
+	VendorId：0x10de
+	DeviceId：0x1f99
+	描述：NVIDIA GeForce GTX 1650
+2023-10-08 15:14:46.238|info|DeviceResources.cpp:_CreateSwapChain|Hardware Composition 支持：是
+2023-10-08 15:14:46.238|info|DeviceResources.cpp:_CreateSwapChain|Multiplane Overlay 支持：是
+2023-10-08 15:14:46.238|info|MagApp.cpp:_InitFrameSource|当前捕获模式：Graphics Capture
+2023-10-08 15:14:46.238|info|FrameSourceBase.cpp:Initialize|已禁用窗口圆角
+2023-10-08 15:14:46.345|info|GraphicsCaptureFrameSource.cpp:Initialize|GraphicsCaptureFrameSource 初始化完成
+2023-10-08 15:14:46.345|info|MagApp.cpp:_InitFrameSource|源窗口尺寸：1280x720
+2023-10-08 15:14:46.346|info|EffectCacheManager.cpp:_LoadFromMemCache|已读取缓存 cache\Lanczos_1cfc88f88f10091e3
+2023-10-08 15:14:46.346|info|Renderer.cpp:CompileEffect|编译 Lanczos.hlsl 用时 0.16800001 毫秒
+2023-10-08 15:14:46.347|info|CursorManager.cpp:Initialize|CursorManager 初始化完成
+2023-10-08 15:15:59.623|info|CursorManager.cpp:GetCursorTexture|已解析光标：0x56d0b91
+	类型：Color
+2023-10-08 15:16:04.342|info|CursorManager.cpp:GetCursorTexture|已解析光标：0x10003
+	类型：Color
+2023-10-08 15:16:13.127|info|Renderer.cpp:_CheckSrcState|前台窗口已改变
+2023-10-08 15:16:13.127|info|Renderer.cpp:Render|源窗口状态改变，退出全屏
+2023-10-08 15:16:13.144|info|FrameSourceBase.cpp:~FrameSourceBase|已取消禁用窗口圆角
+2023-10-08 15:16:21.974|info|ShortcutService.cpp:operator ()|热键 Scale 激活（Keyboard Hook）
+2023-10-08 15:16:21.978|info|MagApp.cpp:_CreateHostWnd|缩放窗口尺寸：1920x1080
+2023-10-08 15:16:21.979|info|DeviceResources.cpp:Initialize|可变刷新率支持：是
+2023-10-08 15:16:22.024|info|DeviceResources.cpp:_TryCreateD3DDevice|已创建 D3D Device
+	功能级别：11.1
+2023-10-08 15:16:22.024|info|DeviceResources.cpp:LogAdapter|当前图形适配器：
+	VendorId：0x10de
+	DeviceId：0x1f99
+	描述：NVIDIA GeForce GTX 1650
+2023-10-08 15:16:22.027|info|DeviceResources.cpp:_CreateSwapChain|Hardware Composition 支持：是
+2023-10-08 15:16:22.027|info|DeviceResources.cpp:_CreateSwapChain|Multiplane Overlay 支持：是
+2023-10-08 15:16:22.027|info|MagApp.cpp:_InitFrameSource|当前捕获模式：Graphics Capture
+2023-10-08 15:16:22.027|info|FrameSourceBase.cpp:Initialize|已禁用窗口圆角
+2023-10-08 15:16:22.138|info|GraphicsCaptureFrameSource.cpp:Initialize|GraphicsCaptureFrameSource 初始化完成
+2023-10-08 15:16:22.138|info|MagApp.cpp:_InitFrameSource|源窗口尺寸：1280x720
+2023-10-08 15:16:22.837|info|EffectCacheManager.cpp:Save|已保存缓存 cache\ACNet_1bc3c8e967c8e146e
+2023-10-08 15:16:22.837|info|Renderer.cpp:CompileEffect|编译 ACNet.hlsl 用时 698.814 毫秒
+2023-10-08 15:16:22.841|info|EffectCacheManager.cpp:_LoadFromMemCache|已读取缓存 cache\Bicubic_370e0d4132e257371
+2023-10-08 15:16:22.841|info|Renderer.cpp:CompileEffect|编译 Bicubic.hlsl 用时 0.24800001 毫秒
+2023-10-08 15:16:23.288|info|ShortcutService.cpp:operator ()|热键 Scale 激活（Keyboard Hook）
+2023-10-08 15:16:23.481|info|EffectCacheManager.cpp:Save|已保存缓存 cache\ACNet_0bc3c8e967c8e146e
+2023-10-08 15:16:23.481|info|Renderer.cpp:CompileEffect|编译 ACNet.hlsl 用时 641.09 毫秒
+2023-10-08 15:16:23.481|info|Renderer.cpp:_BuildEffects|编译降采样着色器用时 641.106 毫秒
+2023-10-08 15:16:23.485|info|CursorManager.cpp:Initialize|CursorManager 初始化完成
+2023-10-08 15:16:23.501|info|FrameSourceBase.cpp:~FrameSourceBase|已取消禁用窗口圆角
+2023-10-08 15:16:24.458|info|ShortcutService.cpp:operator ()|热键 Scale 激活（Keyboard Hook）
+2023-10-08 15:16:24.464|info|MagApp.cpp:_CreateHostWnd|缩放窗口尺寸：1920x1080
+2023-10-08 15:16:24.465|info|DeviceResources.cpp:Initialize|可变刷新率支持：是
+2023-10-08 15:16:24.507|info|DeviceResources.cpp:_TryCreateD3DDevice|已创建 D3D Device
+	功能级别：11.1
+2023-10-08 15:16:24.507|info|DeviceResources.cpp:LogAdapter|当前图形适配器：
+	VendorId：0x10de
+	DeviceId：0x1f99
+	描述：NVIDIA GeForce GTX 1650
+2023-10-08 15:16:24.509|info|DeviceResources.cpp:_CreateSwapChain|Hardware Composition 支持：是
+2023-10-08 15:16:24.509|info|DeviceResources.cpp:_CreateSwapChain|Multiplane Overlay 支持：是
+2023-10-08 15:16:24.509|info|MagApp.cpp:_InitFrameSource|当前捕获模式：Graphics Capture
+2023-10-08 15:16:24.509|info|FrameSourceBase.cpp:Initialize|已禁用窗口圆角
+2023-10-08 15:16:24.619|info|GraphicsCaptureFrameSource.cpp:Initialize|GraphicsCaptureFrameSource 初始化完成
+2023-10-08 15:16:24.619|info|MagApp.cpp:_InitFrameSource|源窗口尺寸：1280x720
+2023-10-08 15:16:24.620|info|EffectCacheManager.cpp:_LoadFromMemCache|已读取缓存 cache\ACNet_1bc3c8e967c8e146e
+2023-10-08 15:16:24.620|info|Renderer.cpp:CompileEffect|编译 ACNet.hlsl 用时 1.0630001 毫秒
+2023-10-08 15:16:24.623|info|EffectCacheManager.cpp:_LoadFromMemCache|已读取缓存 cache\Bicubic_370e0d4132e257371
+2023-10-08 15:16:24.623|info|Renderer.cpp:CompileEffect|编译 Bicubic.hlsl 用时 0.231 毫秒
+2023-10-08 15:16:24.624|info|EffectCacheManager.cpp:_LoadFromMemCache|已读取缓存 cache\ACNet_0bc3c8e967c8e146e
+2023-10-08 15:16:24.624|info|Renderer.cpp:CompileEffect|编译 ACNet.hlsl 用时 1.5610001 毫秒
+2023-10-08 15:16:24.624|info|Renderer.cpp:_BuildEffects|编译降采样着色器用时 1.5780001 毫秒
+2023-10-08 15:16:24.628|info|CursorManager.cpp:Initialize|CursorManager 初始化完成
+2023-10-08 15:16:36.153|info|ShortcutService.cpp:operator ()|热键 Scale 激活（Keyboard Hook）
+2023-10-08 15:16:36.162|info|FrameSourceBase.cpp:~FrameSourceBase|已取消禁用窗口圆角
+2023-10-08 15:16:43.692|info|XamlApp.cpp:_QuitWithoutMainWindow|程序退出
+2023-10-29 08:56:27.823|info|XamlApp.cpp:Initialize|程序启动
+	版本：v0.10.3
+	管理员：是
+2023-10-29 08:56:27.888|info|AppSettings.cpp:Initialize|便携模式：是
+2023-10-29 08:56:30.751|info|XamlApp.cpp:_QuitWithoutMainWindow|程序退出
+2023-11-03 19:56:31.883|info|XamlApp.cpp:Initialize|程序启动
+	版本：v0.10.3
+	管理员：是
+2023-11-03 19:56:31.945|info|AppSettings.cpp:Initialize|便携模式：是
+2023-11-03 19:56:44.776|info|ShortcutService.cpp:operator ()|热键 Scale 激活（Keyboard Hook）
+2023-11-03 19:56:44.779|info|MagApp.cpp:_CreateHostWnd|缩放窗口尺寸：1920x1080
+2023-11-03 19:56:44.779|info|DeviceResources.cpp:Initialize|可变刷新率支持：是
+2023-11-03 19:56:44.814|info|DeviceResources.cpp:_TryCreateD3DDevice|已创建 D3D Device
+	功能级别：11.1
+2023-11-03 19:56:44.814|info|DeviceResources.cpp:LogAdapter|当前图形适配器：
+	VendorId：0x10de
+	DeviceId：0x1f99
+	描述：NVIDIA GeForce GTX 1650
+2023-11-03 19:56:44.816|info|DeviceResources.cpp:_CreateSwapChain|Hardware Composition 支持：是
+2023-11-03 19:56:44.816|info|DeviceResources.cpp:_CreateSwapChain|Multiplane Overlay 支持：是
+2023-11-03 19:56:44.816|info|MagApp.cpp:_InitFrameSource|当前捕获模式：Graphics Capture
+2023-11-03 19:56:44.816|info|FrameSourceBase.cpp:Initialize|已禁用窗口圆角
+2023-11-03 19:56:44.901|info|GraphicsCaptureFrameSource.cpp:Initialize|GraphicsCaptureFrameSource 初始化完成
+2023-11-03 19:56:44.901|info|MagApp.cpp:_InitFrameSource|源窗口尺寸：1333x730
+2023-11-03 19:56:45.233|info|EffectCacheManager.cpp:Save|已保存缓存 cache\Anime4K#Anime4K_Upscale_Denoise_L_121c2192c6f3d6205
+2023-11-03 19:56:45.233|info|Renderer.cpp:CompileEffect|编译 Anime4K\Anime4K_Upscale_Denoise_L.hlsl 用时 332.65002 毫秒
+2023-11-03 19:56:45.235|info|Win32Utils.cpp:ReadFile|读取文件：cache\Bicubic_370e0d4132e257371
+2023-11-03 19:56:45.236|info|EffectCacheManager.cpp:Load|已读取缓存 cache\Bicubic_370e0d4132e257371
+2023-11-03 19:56:45.236|info|Renderer.cpp:CompileEffect|编译 Bicubic.hlsl 用时 0.726 毫秒
+2023-11-03 19:56:45.497|info|EffectCacheManager.cpp:Save|已保存缓存 cache\Anime4K#Anime4K_Upscale_Denoise_L_021c2192c6f3d6205
+2023-11-03 19:56:45.497|info|Renderer.cpp:CompileEffect|编译 Anime4K\Anime4K_Upscale_Denoise_L.hlsl 用时 261.75702 毫秒
+2023-11-03 19:56:45.497|info|Renderer.cpp:_BuildEffects|编译降采样着色器用时 261.768 毫秒
+2023-11-03 19:56:45.499|info|Win32Utils.cpp:ReadFile|读取文件：cache\fonts_ru
+2023-11-03 19:56:45.500|info|CursorManager.cpp:Initialize|CursorManager 初始化完成
+2023-11-03 19:56:45.508|info|CursorManager.cpp:GetCursorTexture|已解析光标：0x10003
+	类型：Color
+2023-11-03 19:57:08.401|info|CursorManager.cpp:GetCursorTexture|已解析光标：0x10007
+	类型：Color
+2023-11-03 19:57:08.412|info|Renderer.cpp:_CheckSrcState|前台窗口已改变
+2023-11-03 19:57:08.412|info|Renderer.cpp:Render|源窗口状态改变，退出全屏
+2023-11-03 19:57:08.418|info|FrameSourceBase.cpp:~FrameSourceBase|已取消禁用窗口圆角
+2023-11-03 19:58:38.238|info|ShortcutService.cpp:operator ()|热键 Scale 激活（Keyboard Hook）
+2023-11-03 19:58:38.242|info|MagApp.cpp:_CreateHostWnd|缩放窗口尺寸：1920x1080
+2023-11-03 19:58:38.243|info|DeviceResources.cpp:Initialize|可变刷新率支持：是
+2023-11-03 19:58:38.276|info|DeviceResources.cpp:_TryCreateD3DDevice|已创建 D3D Device
+	功能级别：11.1
+2023-11-03 19:58:38.276|info|DeviceResources.cpp:LogAdapter|当前图形适配器：
+	VendorId：0x10de
+	DeviceId：0x1f99
+	描述：NVIDIA GeForce GTX 1650
+2023-11-03 19:58:38.277|info|DeviceResources.cpp:_CreateSwapChain|Hardware Composition 支持：是
+2023-11-03 19:58:38.277|info|DeviceResources.cpp:_CreateSwapChain|Multiplane Overlay 支持：是
+2023-11-03 19:58:38.277|info|MagApp.cpp:_InitFrameSource|当前捕获模式：Graphics Capture
+2023-11-03 19:58:38.277|info|FrameSourceBase.cpp:Initialize|已禁用窗口圆角
+2023-11-03 19:58:38.351|info|GraphicsCaptureFrameSource.cpp:Initialize|GraphicsCaptureFrameSource 初始化完成
+2023-11-03 19:58:38.351|info|MagApp.cpp:_InitFrameSource|源窗口尺寸：794x550
+2023-11-03 19:58:38.352|info|EffectCacheManager.cpp:_LoadFromMemCache|已读取缓存 cache\Anime4K#Anime4K_Upscale_Denoise_L_121c2192c6f3d6205
+2023-11-03 19:58:38.352|info|Renderer.cpp:CompileEffect|编译 Anime4K\Anime4K_Upscale_Denoise_L.hlsl 用时 0.319 毫秒
+2023-11-03 19:58:38.354|info|EffectCacheManager.cpp:_LoadFromMemCache|已读取缓存 cache\Bicubic_370e0d4132e257371
+2023-11-03 19:58:38.354|info|Renderer.cpp:CompileEffect|编译 Bicubic.hlsl 用时 0.15200001 毫秒
+2023-11-03 19:58:38.354|info|EffectCacheManager.cpp:_LoadFromMemCache|已读取缓存 cache\Anime4K#Anime4K_Upscale_Denoise_L_021c2192c6f3d6205
+2023-11-03 19:58:38.354|info|Renderer.cpp:CompileEffect|编译 Anime4K\Anime4K_Upscale_Denoise_L.hlsl 用时 0.38300002 毫秒
+2023-11-03 19:58:38.354|info|Renderer.cpp:_BuildEffects|编译降采样着色器用时 0.395 毫秒
+2023-11-03 19:58:38.356|info|CursorManager.cpp:Initialize|CursorManager 初始化完成
+2023-11-03 19:58:38.365|info|CursorManager.cpp:GetCursorTexture|已解析光标：0x10003
+	类型：Color
+2023-11-03 19:59:32.985|info|CursorManager.cpp:GetCursorTexture|已解析光标：0x10019
+	类型：Color
+2023-11-03 19:59:40.913|info|Renderer.cpp:_CheckSrcState|前台窗口已改变
+2023-11-03 19:59:40.913|info|Renderer.cpp:Render|源窗口状态改变，退出全屏
+2023-11-03 19:59:40.919|error|FrameSourceBase.cpp:~FrameSourceBase|取消禁用窗口圆角失败
+	HRESULT：0x80070006
+2023-11-03 20:02:13.686|info|ShortcutService.cpp:operator ()|热键 Scale 激活（Keyboard Hook）
+2023-11-03 20:02:13.690|info|MagApp.cpp:_CreateHostWnd|缩放窗口尺寸：1920x1080
+2023-11-03 20:02:13.691|info|DeviceResources.cpp:Initialize|可变刷新率支持：是
+2023-11-03 20:02:13.724|info|DeviceResources.cpp:_TryCreateD3DDevice|已创建 D3D Device
+	功能级别：11.1
+2023-11-03 20:02:13.724|info|DeviceResources.cpp:LogAdapter|当前图形适配器：
+	VendorId：0x10de
+	DeviceId：0x1f99
+	描述：NVIDIA GeForce GTX 1650
+2023-11-03 20:02:13.726|info|DeviceResources.cpp:_CreateSwapChain|Hardware Composition 支持：是
+2023-11-03 20:02:13.726|info|DeviceResources.cpp:_CreateSwapChain|Multiplane Overlay 支持：是
+2023-11-03 20:02:13.726|info|MagApp.cpp:_InitFrameSource|当前捕获模式：Graphics Capture
+2023-11-03 20:02:13.726|info|FrameSourceBase.cpp:Initialize|已禁用窗口圆角
+2023-11-03 20:02:13.806|info|GraphicsCaptureFrameSource.cpp:Initialize|GraphicsCaptureFrameSource 初始化完成
+2023-11-03 20:02:13.806|info|MagApp.cpp:_InitFrameSource|源窗口尺寸：794x550
+2023-11-03 20:02:13.807|info|EffectCacheManager.cpp:_LoadFromMemCache|已读取缓存 cache\Anime4K#Anime4K_Upscale_Denoise_L_121c2192c6f3d6205
+2023-11-03 20:02:13.807|info|Renderer.cpp:CompileEffect|编译 Anime4K\Anime4K_Upscale_Denoise_L.hlsl 用时 0.29900002 毫秒
+2023-11-03 20:02:13.809|info|EffectCacheManager.cpp:_LoadFromMemCache|已读取缓存 cache\Bicubic_370e0d4132e257371
+2023-11-03 20:02:13.809|info|Renderer.cpp:CompileEffect|编译 Bicubic.hlsl 用时 0.16100001 毫秒
+2023-11-03 20:02:13.809|info|EffectCacheManager.cpp:_LoadFromMemCache|已读取缓存 cache\Anime4K#Anime4K_Upscale_Denoise_L_021c2192c6f3d6205
+2023-11-03 20:02:13.809|info|Renderer.cpp:CompileEffect|编译 Anime4K\Anime4K_Upscale_Denoise_L.hlsl 用时 0.293 毫秒
+2023-11-03 20:02:13.809|info|Renderer.cpp:_BuildEffects|编译降采样着色器用时 0.305 毫秒
+2023-11-03 20:02:13.810|info|CursorManager.cpp:Initialize|CursorManager 初始化完成
+2023-11-03 20:02:13.822|info|CursorManager.cpp:GetCursorTexture|已解析光标：0x10003
+	类型：Color
+2023-11-03 20:02:43.597|error|Win32Utils.cpp:GetWindowShowCmd|GetWindowPlacement 出错
+	LastErrorCode：1400
+2023-11-03 20:02:43.597|info|Renderer.cpp:_CheckSrcState|源窗口显示状态改变
+2023-11-03 20:02:43.597|info|Renderer.cpp:Render|源窗口状态改变，退出全屏
+2023-11-03 20:02:43.602|error|FrameSourceBase.cpp:~FrameSourceBase|取消禁用窗口圆角失败
+	HRESULT：0x80070006
+2023-11-03 20:03:26.220|info|ShortcutService.cpp:operator ()|热键 Scale 激活（Keyboard Hook）
+2023-11-03 20:03:26.223|info|MagApp.cpp:_CreateHostWnd|缩放窗口尺寸：1920x1080
+2023-11-03 20:03:26.224|info|DeviceResources.cpp:Initialize|可变刷新率支持：是
+2023-11-03 20:03:26.256|info|DeviceResources.cpp:_TryCreateD3DDevice|已创建 D3D Device
+	功能级别：11.1
+2023-11-03 20:03:26.256|info|DeviceResources.cpp:LogAdapter|当前图形适配器：
+	VendorId：0x10de
+	DeviceId：0x1f99
+	描述：NVIDIA GeForce GTX 1650
+2023-11-03 20:03:26.258|info|DeviceResources.cpp:_CreateSwapChain|Hardware Composition 支持：是
+2023-11-03 20:03:26.258|info|DeviceResources.cpp:_CreateSwapChain|Multiplane Overlay 支持：是
+2023-11-03 20:03:26.258|info|MagApp.cpp:_InitFrameSource|当前捕获模式：Graphics Capture
+2023-11-03 20:03:26.258|info|FrameSourceBase.cpp:Initialize|已禁用窗口圆角
+2023-11-03 20:03:26.338|info|GraphicsCaptureFrameSource.cpp:Initialize|GraphicsCaptureFrameSource 初始化完成
+2023-11-03 20:03:26.338|info|MagApp.cpp:_InitFrameSource|源窗口尺寸：1333x730
+2023-11-03 20:03:26.338|info|EffectCacheManager.cpp:_LoadFromMemCache|已读取缓存 cache\Anime4K#Anime4K_Upscale_Denoise_L_121c2192c6f3d6205
+2023-11-03 20:03:26.338|info|Renderer.cpp:CompileEffect|编译 Anime4K\Anime4K_Upscale_Denoise_L.hlsl 用时 0.272 毫秒
+2023-11-03 20:03:26.340|info|EffectCacheManager.cpp:_LoadFromMemCache|已读取缓存 cache\Bicubic_370e0d4132e257371
+2023-11-03 20:03:26.340|info|Renderer.cpp:CompileEffect|编译 Bicubic.hlsl 用时 0.19600001 毫秒
+2023-11-03 20:03:26.340|info|EffectCacheManager.cpp:_LoadFromMemCache|已读取缓存 cache\Anime4K#Anime4K_Upscale_Denoise_L_021c2192c6f3d6205
+2023-11-03 20:03:26.340|info|Renderer.cpp:CompileEffect|编译 Anime4K\Anime4K_Upscale_Denoise_L.hlsl 用时 0.33100003 毫秒
+2023-11-03 20:03:26.340|info|Renderer.cpp:_BuildEffects|编译降采样着色器用时 0.344 毫秒
+2023-11-03 20:03:26.342|info|CursorManager.cpp:Initialize|CursorManager 初始化完成
+2023-11-03 20:03:26.354|info|CursorManager.cpp:GetCursorTexture|已解析光标：0x10003
+	类型：Color
+2023-11-03 20:04:02.393|info|Renderer.cpp:_CheckSrcState|前台窗口已改变
+2023-11-03 20:04:02.393|info|Renderer.cpp:Render|源窗口状态改变，退出全屏
+2023-11-03 20:04:02.397|info|FrameSourceBase.cpp:~FrameSourceBase|已取消禁用窗口圆角
+2023-11-03 20:05:14.094|info|XamlApp.cpp:_QuitWithoutMainWindow|程序退出
+2023-11-30 14:16:02.029|info|XamlApp.cpp:Initialize|程序启动
+	版本：v0.10.3
+	管理员：是
+2023-11-30 14:16:02.141|info|AppSettings.cpp:Initialize|便携模式：是
+2023-11-30 14:16:11.411|info|XamlApp.cpp:_QuitWithoutMainWindow|程序退出
+2023-11-30 14:16:11.713|info|XamlApp.cpp:bool __cdecl Magpie::XamlApp::Initialize(struct HINSTANCE__ *,const wchar_t *)|程序启动
+	版本：v0.10.4
+	管理员：是
+2023-11-30 14:16:11.797|info|AppSettings.cpp:bool __cdecl winrt::Magpie::App::AppSettings::Initialize(void)|便携模式：是
+2023-11-30 14:16:35.685|info|XamlApp.cpp:void __cdecl Magpie::XamlApp::_QuitWithoutMainWindow(void)|程序退出
+2023-12-29 09:02:33.518|info|XamlApp.cpp:bool __cdecl Magpie::XamlApp::Initialize(struct HINSTANCE__ *,const wchar_t *)|程序启动
+	版本：v0.10.4
+	管理员：是
+2023-12-29 09:02:33.583|info|AppSettings.cpp:bool __cdecl winrt::Magpie::App::AppSettings::Initialize(void)|便携模式：是
+2023-12-29 09:02:37.676|info|XamlApp.cpp:void __cdecl Magpie::XamlApp::_QuitWithoutMainWindow(void)|程序退出
+2023-12-29 12:25:53.741|info|XamlApp.cpp:bool __cdecl Magpie::XamlApp::Initialize(struct HINSTANCE__ *,const wchar_t *)|程序启动
+	版本：v0.10.4
+	管理员：是
+2023-12-29 12:25:53.840|info|AppSettings.cpp:bool __cdecl winrt::Magpie::App::AppSettings::Initialize(void)|便携模式：是
+2023-12-29 12:26:20.459|info|ShortcutService.cpp:auto __cdecl winrt::Magpie::App::ShortcutService::_LowLevelKeyboardProc::<lambda_1>::()::<lambda_1>::operator ()(void) const|热键 Scale 激活（Keyboard Hook）
+2023-12-29 12:26:20.465|info|MagApp.cpp:bool __cdecl Magpie::Core::MagApp::_CreateHostWnd(void)|缩放窗口尺寸：1920x1080
+2023-12-29 12:26:20.466|info|DeviceResources.cpp:bool __cdecl Magpie::Core::DeviceResources::Initialize(void)|可变刷新率支持：是
+2023-12-29 12:26:20.518|info|DeviceResources.cpp:bool __cdecl Magpie::Core::DeviceResources::_TryCreateD3DDevice(struct IDXGIAdapter1 *) noexcept|已创建 D3D Device
+	功能级别：11.1
+2023-12-29 12:26:20.518|info|DeviceResources.cpp:void __cdecl Magpie::Core::LogAdapter(const struct DXGI_ADAPTER_DESC1 &)|当前图形适配器：
+	VendorId：0x10de
+	DeviceId：0x1f99
+	描述：NVIDIA GeForce GTX 1650
+2023-12-29 12:26:20.520|info|DeviceResources.cpp:bool __cdecl Magpie::Core::DeviceResources::_CreateSwapChain(void)|Hardware Composition 支持：是
+2023-12-29 12:26:20.520|info|DeviceResources.cpp:bool __cdecl Magpie::Core::DeviceResources::_CreateSwapChain(void)|Multiplane Overlay 支持：是
+2023-12-29 12:26:20.520|info|MagApp.cpp:bool __cdecl Magpie::Core::MagApp::_InitFrameSource(void)|当前捕获模式：Graphics Capture
+2023-12-29 12:26:20.520|info|FrameSourceBase.cpp:bool __cdecl Magpie::Core::FrameSourceBase::Initialize(void)|已禁用窗口圆角
+2023-12-29 12:26:20.767|info|GraphicsCaptureFrameSource.cpp:bool __cdecl Magpie::Core::GraphicsCaptureFrameSource::Initialize(void)|GraphicsCaptureFrameSource 初始化完成
+2023-12-29 12:26:20.767|info|MagApp.cpp:bool __cdecl Magpie::Core::MagApp::_InitFrameSource(void)|源窗口尺寸：1366x768
+2023-12-29 12:26:20.768|info|Win32Utils.cpp:bool __cdecl Win32Utils::ReadFile(const wchar_t *,class std::vector<unsigned char,class std::allocator<unsigned char> > &)|读取文件：cache\Anime4K#Anime4K_Upscale_Denoise_L_121c2192c6f3d6205
+2023-12-29 12:26:20.769|info|EffectCacheManager.cpp:bool __cdecl Magpie::Core::EffectCacheManager::Load(class std::basic_string_view<wchar_t,struct std::char_traits<wchar_t> >,class std::basic_string_view<wchar_t,struct std::char_traits<wchar_t> >,struct Magpie::Core::EffectDesc &)|已读取缓存 cache\Anime4K#Anime4K_Upscale_Denoise_L_121c2192c6f3d6205
+2023-12-29 12:26:20.769|info|Renderer.cpp:bool __cdecl Magpie::Core::CompileEffect(bool,const struct Magpie::Core::EffectOption &,struct Magpie::Core::EffectDesc &)|编译 Anime4K\Anime4K_Upscale_Denoise_L.hlsl 用时 1.534 毫秒
+2023-12-29 12:26:20.773|info|Win32Utils.cpp:bool __cdecl Win32Utils::ReadFile(const wchar_t *,class std::vector<unsigned char,class std::allocator<unsigned char> > &)|读取文件：cache\Bicubic_370e0d4132e257371
+2023-12-29 12:26:20.774|info|Win32Utils.cpp:bool __cdecl Win32Utils::ReadFile(const wchar_t *,class std::vector<unsigned char,class std::allocator<unsigned char> > &)|读取文件：cache\Anime4K#Anime4K_Upscale_Denoise_L_021c2192c6f3d6205
+2023-12-29 12:26:20.774|info|EffectCacheManager.cpp:bool __cdecl Magpie::Core::EffectCacheManager::Load(class std::basic_string_view<wchar_t,struct std::char_traits<wchar_t> >,class std::basic_string_view<wchar_t,struct std::char_traits<wchar_t> >,struct Magpie::Core::EffectDesc &)|已读取缓存 cache\Bicubic_370e0d4132e257371
+2023-12-29 12:26:20.774|info|Renderer.cpp:bool __cdecl Magpie::Core::CompileEffect(bool,const struct Magpie::Core::EffectOption &,struct Magpie::Core::EffectDesc &)|编译 Bicubic.hlsl 用时 0.768 毫秒
+2023-12-29 12:26:20.774|info|EffectCacheManager.cpp:bool __cdecl Magpie::Core::EffectCacheManager::Load(class std::basic_string_view<wchar_t,struct std::char_traits<wchar_t> >,class std::basic_string_view<wchar_t,struct std::char_traits<wchar_t> >,struct Magpie::Core::EffectDesc &)|已读取缓存 cache\Anime4K#Anime4K_Upscale_Denoise_L_021c2192c6f3d6205
+2023-12-29 12:26:20.774|info|Renderer.cpp:bool __cdecl Magpie::Core::CompileEffect(bool,const struct Magpie::Core::EffectOption &,struct Magpie::Core::EffectDesc &)|编译 Anime4K\Anime4K_Upscale_Denoise_L.hlsl 用时 1.45 毫秒
+2023-12-29 12:26:20.774|info|Renderer.cpp:bool __cdecl Magpie::Core::Renderer::_BuildEffects(void)|编译降采样着色器用时 1.5580001 毫秒
+2023-12-29 12:26:20.777|info|CursorManager.cpp:bool __cdecl Magpie::Core::CursorManager::Initialize(void)|CursorManager 初始化完成
+2023-12-29 12:26:20.792|info|CursorManager.cpp:bool __cdecl Magpie::Core::CursorManager::GetCursorTexture(struct ID3D11Texture2D **,enum Magpie::Core::CursorManager::CursorType &)|已解析光标：0x10003
+	类型：Color
+2023-12-29 12:26:28.671|info|Renderer.cpp:int __cdecl Magpie::Core::Renderer::_CheckSrcState(void)|前台窗口已改变
+2023-12-29 12:26:28.671|info|Renderer.cpp:void __cdecl Magpie::Core::Renderer::Render(bool)|源窗口状态改变，退出全屏
+2023-12-29 12:26:28.684|info|FrameSourceBase.cpp:__cdecl Magpie::Core::FrameSourceBase::~FrameSourceBase(void)|已取消禁用窗口圆角
+2023-12-29 12:26:56.879|info|ShortcutService.cpp:auto __cdecl winrt::Magpie::App::ShortcutService::_LowLevelKeyboardProc::<lambda_1>::()::<lambda_1>::operator ()(void) const|热键 Scale 激活（Keyboard Hook）
+2023-12-29 12:26:56.884|info|MagApp.cpp:bool __cdecl Magpie::Core::MagApp::_CreateHostWnd(void)|缩放窗口尺寸：1920x1080
+2023-12-29 12:26:56.884|info|DeviceResources.cpp:bool __cdecl Magpie::Core::DeviceResources::Initialize(void)|可变刷新率支持：是
+2023-12-29 12:26:56.936|info|DeviceResources.cpp:bool __cdecl Magpie::Core::DeviceResources::_TryCreateD3DDevice(struct IDXGIAdapter1 *) noexcept|已创建 D3D Device
+	功能级别：11.1
+2023-12-29 12:26:56.937|info|DeviceResources.cpp:void __cdecl Magpie::Core::LogAdapter(const struct DXGI_ADAPTER_DESC1 &)|当前图形适配器：
+	VendorId：0x10de
+	DeviceId：0x1f99
+	描述：NVIDIA GeForce GTX 1650
+2023-12-29 12:26:56.940|info|DeviceResources.cpp:bool __cdecl Magpie::Core::DeviceResources::_CreateSwapChain(void)|Hardware Composition 支持：是
+2023-12-29 12:26:56.940|info|DeviceResources.cpp:bool __cdecl Magpie::Core::DeviceResources::_CreateSwapChain(void)|Multiplane Overlay 支持：是
+2023-12-29 12:26:56.940|info|MagApp.cpp:bool __cdecl Magpie::Core::MagApp::_InitFrameSource(void)|当前捕获模式：Graphics Capture
+2023-12-29 12:26:56.940|info|FrameSourceBase.cpp:bool __cdecl Magpie::Core::FrameSourceBase::Initialize(void)|已禁用窗口圆角
+2023-12-29 12:26:57.124|info|GraphicsCaptureFrameSource.cpp:bool __cdecl Magpie::Core::GraphicsCaptureFrameSource::Initialize(void)|GraphicsCaptureFrameSource 初始化完成
+2023-12-29 12:26:57.124|info|MagApp.cpp:bool __cdecl Magpie::Core::MagApp::_InitFrameSource(void)|源窗口尺寸：1366x768
+2023-12-29 12:26:57.124|info|Win32Utils.cpp:bool __cdecl Win32Utils::ReadFile(const wchar_t *,class std::vector<unsigned char,class std::allocator<unsigned char> > &)|读取文件：cache\Lanczos_1cfc88f88f10091e3
+2023-12-29 12:26:57.125|info|EffectCacheManager.cpp:bool __cdecl Magpie::Core::EffectCacheManager::Load(class std::basic_string_view<wchar_t,struct std::char_traits<wchar_t> >,class std::basic_string_view<wchar_t,struct std::char_traits<wchar_t> >,struct Magpie::Core::EffectDesc &)|已读取缓存 cache\Lanczos_1cfc88f88f10091e3
+2023-12-29 12:26:57.125|info|Renderer.cpp:bool __cdecl Magpie::Core::CompileEffect(bool,const struct Magpie::Core::EffectOption &,struct Magpie::Core::EffectDesc &)|编译 Lanczos.hlsl 用时 1.128 毫秒
+2023-12-29 12:26:57.127|info|Win32Utils.cpp:bool __cdecl Win32Utils::ReadFile(const wchar_t *,class std::vector<unsigned char,class std::allocator<unsigned char> > &)|读取文件：cache\fonts_ru
+2023-12-29 12:26:57.128|info|CursorManager.cpp:bool __cdecl Magpie::Core::CursorManager::Initialize(void)|CursorManager 初始化完成
+2023-12-29 12:26:57.141|info|CursorManager.cpp:bool __cdecl Magpie::Core::CursorManager::GetCursorTexture(struct ID3D11Texture2D **,enum Magpie::Core::CursorManager::CursorType &)|已解析光标：0x10003
+	类型：Color
+2023-12-29 12:27:36.360|info|CursorManager.cpp:bool __cdecl Magpie::Core::CursorManager::GetCursorTexture(struct ID3D11Texture2D **,enum Magpie::Core::CursorManager::CursorType &)|已解析光标：0x10019
+	类型：Color
+2023-12-29 12:30:02.249|info|Renderer.cpp:int __cdecl Magpie::Core::Renderer::_CheckSrcState(void)|前台窗口已改变
+2023-12-29 12:30:02.250|info|Renderer.cpp:void __cdecl Magpie::Core::Renderer::Render(bool)|源窗口状态改变，退出全屏
+2023-12-29 12:30:02.265|info|FrameSourceBase.cpp:__cdecl Magpie::Core::FrameSourceBase::~FrameSourceBase(void)|已取消禁用窗口圆角
+2023-12-29 12:30:09.515|info|ShortcutService.cpp:auto __cdecl winrt::Magpie::App::ShortcutService::_LowLevelKeyboardProc::<lambda_1>::()::<lambda_1>::operator ()(void) const|热键 Scale 激活（Keyboard Hook）
+2023-12-29 12:30:09.521|info|MagApp.cpp:bool __cdecl Magpie::Core::MagApp::_CreateHostWnd(void)|缩放窗口尺寸：1920x1080
+2023-12-29 12:30:09.521|info|DeviceResources.cpp:bool __cdecl Magpie::Core::DeviceResources::Initialize(void)|可变刷新率支持：是
+2023-12-29 12:30:09.588|info|DeviceResources.cpp:bool __cdecl Magpie::Core::DeviceResources::_TryCreateD3DDevice(struct IDXGIAdapter1 *) noexcept|已创建 D3D Device
+	功能级别：11.1
+2023-12-29 12:30:09.588|info|DeviceResources.cpp:void __cdecl Magpie::Core::LogAdapter(const struct DXGI_ADAPTER_DESC1 &)|当前图形适配器：
+	VendorId：0x10de
+	DeviceId：0x1f99
+	描述：NVIDIA GeForce GTX 1650
+2023-12-29 12:30:09.592|info|DeviceResources.cpp:bool __cdecl Magpie::Core::DeviceResources::_CreateSwapChain(void)|Hardware Composition 支持：是
+2023-12-29 12:30:09.592|info|DeviceResources.cpp:bool __cdecl Magpie::Core::DeviceResources::_CreateSwapChain(void)|Multiplane Overlay 支持：是
+2023-12-29 12:30:09.592|info|MagApp.cpp:bool __cdecl Magpie::Core::MagApp::_InitFrameSource(void)|当前捕获模式：Graphics Capture
+2023-12-29 12:30:09.592|info|FrameSourceBase.cpp:bool __cdecl Magpie::Core::FrameSourceBase::Initialize(void)|已禁用窗口圆角
+2023-12-29 12:30:09.866|info|GraphicsCaptureFrameSource.cpp:bool __cdecl Magpie::Core::GraphicsCaptureFrameSource::Initialize(void)|GraphicsCaptureFrameSource 初始化完成
+2023-12-29 12:30:09.866|info|MagApp.cpp:bool __cdecl Magpie::Core::MagApp::_InitFrameSource(void)|源窗口尺寸：1366x768
+2023-12-29 12:30:09.866|info|Win32Utils.cpp:bool __cdecl Win32Utils::ReadFile(const wchar_t *,class std::vector<unsigned char,class std::allocator<unsigned char> > &)|读取文件：cache\FSRCNNX#FSRCNNX_1569c593ad5db05e0
+2023-12-29 12:30:09.867|info|EffectCacheManager.cpp:bool __cdecl Magpie::Core::EffectCacheManager::Load(class std::basic_string_view<wchar_t,struct std::char_traits<wchar_t> >,class std::basic_string_view<wchar_t,struct std::char_traits<wchar_t> >,struct Magpie::Core::EffectDesc &)|已读取缓存 cache\FSRCNNX#FSRCNNX_1569c593ad5db05e0
+2023-12-29 12:30:09.867|info|Renderer.cpp:bool __cdecl Magpie::Core::CompileEffect(bool,const struct Magpie::Core::EffectOption &,struct Magpie::Core::EffectDesc &)|编译 FSRCNNX\FSRCNNX.hlsl 用时 1.3720001 毫秒
+2023-12-29 12:30:09.871|info|EffectCacheManager.cpp:bool __cdecl Magpie::Core::EffectCacheManager::_LoadFromMemCache(const class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > &,struct Magpie::Core::EffectDesc &)|已读取缓存 cache\Bicubic_370e0d4132e257371
+2023-12-29 12:30:09.871|info|Renderer.cpp:bool __cdecl Magpie::Core::CompileEffect(bool,const struct Magpie::Core::EffectOption &,struct Magpie::Core::EffectDesc &)|编译 Bicubic.hlsl 用时 0.23500001 毫秒
+2023-12-29 12:30:09.871|info|Win32Utils.cpp:bool __cdecl Win32Utils::ReadFile(const wchar_t *,class std::vector<unsigned char,class std::allocator<unsigned char> > &)|读取文件：cache\FSRCNNX#FSRCNNX_0569c593ad5db05e0
+2023-12-29 12:30:09.872|info|EffectCacheManager.cpp:bool __cdecl Magpie::Core::EffectCacheManager::Load(class std::basic_string_view<wchar_t,struct std::char_traits<wchar_t> >,class std::basic_string_view<wchar_t,struct std::char_traits<wchar_t> >,struct Magpie::Core::EffectDesc &)|已读取缓存 cache\FSRCNNX#FSRCNNX_0569c593ad5db05e0
+2023-12-29 12:30:09.872|info|Renderer.cpp:bool __cdecl Magpie::Core::CompileEffect(bool,const struct Magpie::Core::EffectOption &,struct Magpie::Core::EffectDesc &)|编译 FSRCNNX\FSRCNNX.hlsl 用时 1.299 毫秒
+2023-12-29 12:30:09.872|info|Renderer.cpp:bool __cdecl Magpie::Core::Renderer::_BuildEffects(void)|编译降采样着色器用时 1.32 毫秒
+2023-12-29 12:30:09.880|info|CursorManager.cpp:bool __cdecl Magpie::Core::CursorManager::Initialize(void)|CursorManager 初始化完成
+2023-12-29 12:30:23.146|info|Renderer.cpp:int __cdecl Magpie::Core::Renderer::_CheckSrcState(void)|前台窗口已改变
+2023-12-29 12:30:23.146|info|Renderer.cpp:void __cdecl Magpie::Core::Renderer::Render(bool)|源窗口状态改变，退出全屏
+2023-12-29 12:30:23.158|info|FrameSourceBase.cpp:__cdecl Magpie::Core::FrameSourceBase::~FrameSourceBase(void)|已取消禁用窗口圆角
+2023-12-29 12:30:30.993|info|ShortcutService.cpp:auto __cdecl winrt::Magpie::App::ShortcutService::_LowLevelKeyboardProc::<lambda_1>::()::<lambda_1>::operator ()(void) const|热键 Scale 激活（Keyboard Hook）
+2023-12-29 12:30:30.999|info|MagApp.cpp:bool __cdecl Magpie::Core::MagApp::_CreateHostWnd(void)|缩放窗口尺寸：1920x1080
+2023-12-29 12:30:30.999|info|DeviceResources.cpp:bool __cdecl Magpie::Core::DeviceResources::Initialize(void)|可变刷新率支持：是
+2023-12-29 12:30:31.051|info|DeviceResources.cpp:bool __cdecl Magpie::Core::DeviceResources::_TryCreateD3DDevice(struct IDXGIAdapter1 *) noexcept|已创建 D3D Device
+	功能级别：11.1
+2023-12-29 12:30:31.051|info|DeviceResources.cpp:void __cdecl Magpie::Core::LogAdapter(const struct DXGI_ADAPTER_DESC1 &)|当前图形适配器：
+	VendorId：0x10de
+	DeviceId：0x1f99
+	描述：NVIDIA GeForce GTX 1650
+2023-12-29 12:30:31.058|info|DeviceResources.cpp:bool __cdecl Magpie::Core::DeviceResources::_CreateSwapChain(void)|Hardware Composition 支持：是
+2023-12-29 12:30:31.058|info|DeviceResources.cpp:bool __cdecl Magpie::Core::DeviceResources::_CreateSwapChain(void)|Multiplane Overlay 支持：是
+2023-12-29 12:30:31.058|info|MagApp.cpp:bool __cdecl Magpie::Core::MagApp::_InitFrameSource(void)|当前捕获模式：Graphics Capture
+2023-12-29 12:30:31.058|info|FrameSourceBase.cpp:bool __cdecl Magpie::Core::FrameSourceBase::Initialize(void)|已禁用窗口圆角
+2023-12-29 12:30:31.307|info|GraphicsCaptureFrameSource.cpp:bool __cdecl Magpie::Core::GraphicsCaptureFrameSource::Initialize(void)|GraphicsCaptureFrameSource 初始化完成
+2023-12-29 12:30:31.307|info|MagApp.cpp:bool __cdecl Magpie::Core::MagApp::_InitFrameSource(void)|源窗口尺寸：1366x768
+2023-12-29 12:30:31.387|info|EffectCacheManager.cpp:void __cdecl Magpie::Core::EffectCacheManager::Save(class std::basic_string_view<wchar_t,struct std::char_traits<wchar_t> >,class std::basic_string_view<wchar_t,struct std::char_traits<wchar_t> >,const struct Magpie::Core::EffectDesc &)|已保存缓存 cache\Nearest_13faf36dd943d997c
+2023-12-29 12:30:31.387|info|Renderer.cpp:bool __cdecl Magpie::Core::CompileEffect(bool,const struct Magpie::Core::EffectOption &,struct Magpie::Core::EffectDesc &)|编译 Nearest.hlsl 用时 80.313 毫秒
+2023-12-29 12:30:31.388|info|EffectCacheManager.cpp:bool __cdecl Magpie::Core::EffectCacheManager::_LoadFromMemCache(const class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > &,struct Magpie::Core::EffectDesc &)|已读取缓存 cache\Bicubic_370e0d4132e257371
+2023-12-29 12:30:31.388|info|Renderer.cpp:bool __cdecl Magpie::Core::CompileEffect(bool,const struct Magpie::Core::EffectOption &,struct Magpie::Core::EffectDesc &)|编译 Bicubic.hlsl 用时 0.22000001 毫秒
+2023-12-29 12:30:31.404|info|EffectCacheManager.cpp:void __cdecl Magpie::Core::EffectCacheManager::Save(class std::basic_string_view<wchar_t,struct std::char_traits<wchar_t> >,class std::basic_string_view<wchar_t,struct std::char_traits<wchar_t> >,const struct Magpie::Core::EffectDesc &)|已保存缓存 cache\Nearest_03faf36dd943d997c
+2023-12-29 12:30:31.404|info|Renderer.cpp:bool __cdecl Magpie::Core::CompileEffect(bool,const struct Magpie::Core::EffectOption &,struct Magpie::Core::EffectDesc &)|编译 Nearest.hlsl 用时 16.297 毫秒
+2023-12-29 12:30:31.404|info|Renderer.cpp:bool __cdecl Magpie::Core::Renderer::_BuildEffects(void)|编译降采样着色器用时 16.324001 毫秒
+2023-12-29 12:30:31.406|info|CursorManager.cpp:bool __cdecl Magpie::Core::CursorManager::Initialize(void)|CursorManager 初始化完成
+2023-12-29 12:31:08.852|info|CursorManager.cpp:bool __cdecl Magpie::Core::CursorManager::GetCursorTexture(struct ID3D11Texture2D **,enum Magpie::Core::CursorManager::CursorType &)|已解析光标：0x10003
+	类型：Color
+2023-12-29 12:31:11.551|info|ShortcutService.cpp:auto __cdecl winrt::Magpie::App::ShortcutService::_LowLevelKeyboardProc::<lambda_1>::()::<lambda_1>::operator ()(void) const|热键 Scale 激活（Keyboard Hook）
+2023-12-29 12:31:11.560|info|FrameSourceBase.cpp:__cdecl Magpie::Core::FrameSourceBase::~FrameSourceBase(void)|已取消禁用窗口圆角
+2023-12-29 12:39:31.863|info|XamlApp.cpp:void __cdecl Magpie::XamlApp::_QuitWithoutMainWindow(void)|程序退出
+2024-01-04 17:11:55.239|info|XamlApp.cpp:bool __cdecl Magpie::XamlApp::Initialize(struct HINSTANCE__ *,const wchar_t *)|程序启动
+	版本：v0.10.4
+	管理员：是
+2024-01-04 17:11:55.348|info|AppSettings.cpp:bool __cdecl winrt::Magpie::App::AppSettings::Initialize(void)|便携模式：是
+2024-01-04 17:12:12.033|info|ShortcutService.cpp:auto __cdecl winrt::Magpie::App::ShortcutService::_LowLevelKeyboardProc::<lambda_1>::()::<lambda_1>::operator ()(void) const|热键 Scale 激活（Keyboard Hook）
+2024-01-04 17:12:12.039|info|MagApp.cpp:bool __cdecl Magpie::Core::MagApp::_CreateHostWnd(void)|缩放窗口尺寸：2560x1440
+2024-01-04 17:12:12.040|info|DeviceResources.cpp:bool __cdecl Magpie::Core::DeviceResources::Initialize(void)|可变刷新率支持：是
+2024-01-04 17:12:12.079|info|DeviceResources.cpp:bool __cdecl Magpie::Core::DeviceResources::_TryCreateD3DDevice(struct IDXGIAdapter1 *) noexcept|已创建 D3D Device
+	功能级别：11.1
+2024-01-04 17:12:12.079|info|DeviceResources.cpp:void __cdecl Magpie::Core::LogAdapter(const struct DXGI_ADAPTER_DESC1 &)|当前图形适配器：
+	VendorId：0x10de
+	DeviceId：0x1f99
+	描述：NVIDIA GeForce GTX 1650
+2024-01-04 17:12:12.087|info|DeviceResources.cpp:bool __cdecl Magpie::Core::DeviceResources::_CreateSwapChain(void)|Hardware Composition 支持：是
+2024-01-04 17:12:12.087|info|DeviceResources.cpp:bool __cdecl Magpie::Core::DeviceResources::_CreateSwapChain(void)|Multiplane Overlay 支持：是
+2024-01-04 17:12:12.087|info|MagApp.cpp:bool __cdecl Magpie::Core::MagApp::_InitFrameSource(void)|当前捕获模式：Graphics Capture
+2024-01-04 17:12:12.087|info|FrameSourceBase.cpp:bool __cdecl Magpie::Core::FrameSourceBase::Initialize(void)|已禁用窗口圆角
+2024-01-04 17:12:12.331|info|GraphicsCaptureFrameSource.cpp:bool __cdecl Magpie::Core::GraphicsCaptureFrameSource::Initialize(void)|GraphicsCaptureFrameSource 初始化完成
+2024-01-04 17:12:12.331|info|MagApp.cpp:bool __cdecl Magpie::Core::MagApp::_InitFrameSource(void)|源窗口尺寸：1920x1080
+2024-01-04 17:12:12.332|info|Win32Utils.cpp:bool __cdecl Win32Utils::ReadFile(const wchar_t *,class std::vector<unsigned char,class std::allocator<unsigned char> > &)|读取文件：cache\FSR#FSR_EASU_06bd473fc886ba5a3
+2024-01-04 17:12:12.332|info|Win32Utils.cpp:bool __cdecl Win32Utils::ReadFile(const wchar_t *,class std::vector<unsigned char,class std::allocator<unsigned char> > &)|读取文件：cache\FSR#FSR_RCAS_1443285dfc8fe0125
+2024-01-04 17:12:12.333|info|EffectCacheManager.cpp:bool __cdecl Magpie::Core::EffectCacheManager::Load(class std::basic_string_view<wchar_t,struct std::char_traits<wchar_t> >,class std::basic_string_view<wchar_t,struct std::char_traits<wchar_t> >,struct Magpie::Core::EffectDesc &)|已读取缓存 cache\FSR#FSR_RCAS_1443285dfc8fe0125
+2024-01-04 17:12:12.333|info|EffectCacheManager.cpp:bool __cdecl Magpie::Core::EffectCacheManager::Load(class std::basic_string_view<wchar_t,struct std::char_traits<wchar_t> >,class std::basic_string_view<wchar_t,struct std::char_traits<wchar_t> >,struct Magpie::Core::EffectDesc &)|已读取缓存 cache\FSR#FSR_EASU_06bd473fc886ba5a3
+2024-01-04 17:12:12.333|info|Renderer.cpp:bool __cdecl Magpie::Core::CompileEffect(bool,const struct Magpie::Core::EffectOption &,struct Magpie::Core::EffectDesc &)|编译 FSR\FSR_RCAS.hlsl 用时 1.475 毫秒
+2024-01-04 17:12:12.333|info|Renderer.cpp:bool __cdecl Magpie::Core::CompileEffect(bool,const struct Magpie::Core::EffectOption &,struct Magpie::Core::EffectDesc &)|编译 FSR\FSR_EASU.hlsl 用时 1.4840001 毫秒
+2024-01-04 17:12:12.333|info|Renderer.cpp:bool __cdecl Magpie::Core::Renderer::_BuildEffects(void)|编译着色器总计用时 1.503 毫秒
+2024-01-04 17:12:12.336|info|Win32Utils.cpp:bool __cdecl Win32Utils::ReadFile(const wchar_t *,class std::vector<unsigned char,class std::allocator<unsigned char> > &)|读取文件：cache\fonts_ru
+2024-01-04 17:12:12.337|info|CursorManager.cpp:bool __cdecl Magpie::Core::CursorManager::Initialize(void)|CursorManager 初始化完成
+2024-01-04 17:12:12.353|info|CursorManager.cpp:bool __cdecl Magpie::Core::CursorManager::GetCursorTexture(struct ID3D11Texture2D **,enum Magpie::Core::CursorManager::CursorType &)|已解析光标：0x169f0f09
+	类型：Color
+2024-01-04 17:12:57.236|info|Renderer.cpp:int __cdecl Magpie::Core::Renderer::_CheckSrcState(void)|前台窗口已改变
+2024-01-04 17:12:57.236|info|Renderer.cpp:void __cdecl Magpie::Core::Renderer::Render(bool)|源窗口状态改变，退出全屏
+2024-01-04 17:12:57.242|info|FrameSourceBase.cpp:__cdecl Magpie::Core::FrameSourceBase::~FrameSourceBase(void)|已取消禁用窗口圆角
+2024-01-04 17:14:45.781|info|XamlApp.cpp:void __cdecl Magpie::XamlApp::_QuitWithoutMainWindow(void)|程序退出
+2024-01-06 15:42:40.754|info|XamlApp.cpp:bool __cdecl Magpie::XamlApp::Initialize(struct HINSTANCE__ *,const wchar_t *)|程序启动
+	版本：v0.10.4
+	管理员：是
+2024-01-06 15:42:40.837|info|AppSettings.cpp:bool __cdecl winrt::Magpie::App::AppSettings::Initialize(void)|便携模式：是
+2024-01-06 15:45:54.929|info|ShortcutService.cpp:auto __cdecl winrt::Magpie::App::ShortcutService::_LowLevelKeyboardProc::<lambda_1>::()::<lambda_1>::operator ()(void) const|热键 Scale 激活（Keyboard Hook）
+2024-01-06 15:45:54.932|info|MagApp.cpp:bool __cdecl Magpie::Core::MagApp::_CreateHostWnd(void)|缩放窗口尺寸：1920x1080
+2024-01-06 15:45:54.933|info|DeviceResources.cpp:bool __cdecl Magpie::Core::DeviceResources::Initialize(void)|可变刷新率支持：是
+2024-01-06 15:45:54.966|info|DeviceResources.cpp:bool __cdecl Magpie::Core::DeviceResources::_TryCreateD3DDevice(struct IDXGIAdapter1 *) noexcept|已创建 D3D Device
+	功能级别：11.1
+2024-01-06 15:45:54.966|info|DeviceResources.cpp:void __cdecl Magpie::Core::LogAdapter(const struct DXGI_ADAPTER_DESC1 &)|当前图形适配器：
+	VendorId：0x10de
+	DeviceId：0x1f99
+	描述：NVIDIA GeForce GTX 1650
+2024-01-06 15:45:54.973|info|DeviceResources.cpp:bool __cdecl Magpie::Core::DeviceResources::_CreateSwapChain(void)|Hardware Composition 支持：是
+2024-01-06 15:45:54.973|info|DeviceResources.cpp:bool __cdecl Magpie::Core::DeviceResources::_CreateSwapChain(void)|Multiplane Overlay 支持：是
+2024-01-06 15:45:54.973|info|MagApp.cpp:bool __cdecl Magpie::Core::MagApp::_InitFrameSource(void)|当前捕获模式：Graphics Capture
+2024-01-06 15:45:54.973|info|FrameSourceBase.cpp:bool __cdecl Magpie::Core::FrameSourceBase::Initialize(void)|已禁用窗口圆角
+2024-01-06 15:45:55.135|info|GraphicsCaptureFrameSource.cpp:bool __cdecl Magpie::Core::GraphicsCaptureFrameSource::Initialize(void)|GraphicsCaptureFrameSource 初始化完成
+2024-01-06 15:45:55.135|info|MagApp.cpp:bool __cdecl Magpie::Core::MagApp::_InitFrameSource(void)|源窗口尺寸：1280x720
+2024-01-06 15:45:55.135|info|Win32Utils.cpp:bool __cdecl Win32Utils::ReadFile(const wchar_t *,class std::vector<unsigned char,class std::allocator<unsigned char> > &)|读取文件：cache\FSR#FSR_EASU_06bd473fc886ba5a3
+2024-01-06 15:45:55.135|info|Win32Utils.cpp:bool __cdecl Win32Utils::ReadFile(const wchar_t *,class std::vector<unsigned char,class std::allocator<unsigned char> > &)|读取文件：cache\FSR#FSR_RCAS_1443285dfc8fe0125
+2024-01-06 15:45:55.136|info|EffectCacheManager.cpp:bool __cdecl Magpie::Core::EffectCacheManager::Load(class std::basic_string_view<wchar_t,struct std::char_traits<wchar_t> >,class std::basic_string_view<wchar_t,struct std::char_traits<wchar_t> >,struct Magpie::Core::EffectDesc &)|已读取缓存 cache\FSR#FSR_EASU_06bd473fc886ba5a3
+2024-01-06 15:45:55.136|info|Renderer.cpp:bool __cdecl Magpie::Core::CompileEffect(bool,const struct Magpie::Core::EffectOption &,struct Magpie::Core::EffectDesc &)|编译 FSR\FSR_EASU.hlsl 用时 1.0780001 毫秒
+2024-01-06 15:45:55.136|info|EffectCacheManager.cpp:bool __cdecl Magpie::Core::EffectCacheManager::Load(class std::basic_string_view<wchar_t,struct std::char_traits<wchar_t> >,class std::basic_string_view<wchar_t,struct std::char_traits<wchar_t> >,struct Magpie::Core::EffectDesc &)|已读取缓存 cache\FSR#FSR_RCAS_1443285dfc8fe0125
+2024-01-06 15:45:55.136|info|Renderer.cpp:bool __cdecl Magpie::Core::CompileEffect(bool,const struct Magpie::Core::EffectOption &,struct Magpie::Core::EffectDesc &)|编译 FSR\FSR_RCAS.hlsl 用时 1.105 毫秒
+2024-01-06 15:45:55.136|info|Renderer.cpp:bool __cdecl Magpie::Core::Renderer::_BuildEffects(void)|编译着色器总计用时 1.1290001 毫秒
+2024-01-06 15:45:55.139|info|Win32Utils.cpp:bool __cdecl Win32Utils::ReadFile(const wchar_t *,class std::vector<unsigned char,class std::allocator<unsigned char> > &)|读取文件：cache\fonts_ru
+2024-01-06 15:45:55.139|info|ImGuiImpl.cpp:unsigned long __cdecl Magpie::Core::ThreadProc(void *)|已注册鼠标钩子
+2024-01-06 15:45:55.140|info|CursorManager.cpp:bool __cdecl Magpie::Core::CursorManager::Initialize(void)|CursorManager 初始化完成
+2024-01-06 15:45:55.152|info|CursorManager.cpp:bool __cdecl Magpie::Core::CursorManager::GetCursorTexture(struct ID3D11Texture2D **,enum Magpie::Core::CursorManager::CursorType &)|已解析光标：0x18505db
+	类型：Color
+2024-01-06 15:46:08.683|info|Renderer.cpp:int __cdecl Magpie::Core::Renderer::_CheckSrcState(void)|前台窗口已改变
+2024-01-06 15:46:08.683|info|Renderer.cpp:void __cdecl Magpie::Core::Renderer::Render(bool)|源窗口状态改变，退出全屏
+2024-01-06 15:46:08.685|info|ImGuiImpl.cpp:unsigned long __cdecl Magpie::Core::ThreadProc(void *)|已销毁鼠标钩子
+2024-01-06 15:46:08.688|info|FrameSourceBase.cpp:__cdecl Magpie::Core::FrameSourceBase::~FrameSourceBase(void)|已取消禁用窗口圆角
+2024-01-06 15:48:11.130|info|ShortcutService.cpp:auto __cdecl winrt::Magpie::App::ShortcutService::_LowLevelKeyboardProc::<lambda_1>::()::<lambda_1>::operator ()(void) const|热键 Scale 激活（Keyboard Hook）
+2024-01-06 15:48:11.134|info|MagApp.cpp:bool __cdecl Magpie::Core::MagApp::_CreateHostWnd(void)|缩放窗口尺寸：1920x1080
+2024-01-06 15:48:11.134|info|DeviceResources.cpp:bool __cdecl Magpie::Core::DeviceResources::Initialize(void)|可变刷新率支持：是
+2024-01-06 15:48:11.180|info|DeviceResources.cpp:bool __cdecl Magpie::Core::DeviceResources::_TryCreateD3DDevice(struct IDXGIAdapter1 *) noexcept|已创建 D3D Device
+	功能级别：11.1
+2024-01-06 15:48:11.180|info|DeviceResources.cpp:void __cdecl Magpie::Core::LogAdapter(const struct DXGI_ADAPTER_DESC1 &)|当前图形适配器：
+	VendorId：0x10de
+	DeviceId：0x1f99
+	描述：NVIDIA GeForce GTX 1650
+2024-01-06 15:48:11.183|info|DeviceResources.cpp:bool __cdecl Magpie::Core::DeviceResources::_CreateSwapChain(void)|Hardware Composition 支持：是
+2024-01-06 15:48:11.183|info|DeviceResources.cpp:bool __cdecl Magpie::Core::DeviceResources::_CreateSwapChain(void)|Multiplane Overlay 支持：是
+2024-01-06 15:48:11.183|info|MagApp.cpp:bool __cdecl Magpie::Core::MagApp::_InitFrameSource(void)|当前捕获模式：Graphics Capture
+2024-01-06 15:48:11.183|info|FrameSourceBase.cpp:bool __cdecl Magpie::Core::FrameSourceBase::Initialize(void)|已禁用窗口圆角
+2024-01-06 15:48:11.358|info|GraphicsCaptureFrameSource.cpp:bool __cdecl Magpie::Core::GraphicsCaptureFrameSource::Initialize(void)|GraphicsCaptureFrameSource 初始化完成
+2024-01-06 15:48:11.358|info|MagApp.cpp:bool __cdecl Magpie::Core::MagApp::_InitFrameSource(void)|源窗口尺寸：1280x720
+2024-01-06 15:48:11.359|info|EffectCacheManager.cpp:bool __cdecl Magpie::Core::EffectCacheManager::_LoadFromMemCache(const class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > &,struct Magpie::Core::EffectDesc &)|已读取缓存 cache\FSR#FSR_RCAS_1443285dfc8fe0125
+2024-01-06 15:48:11.359|info|Renderer.cpp:bool __cdecl Magpie::Core::CompileEffect(bool,const struct Magpie::Core::EffectOption &,struct Magpie::Core::EffectDesc &)|编译 FSR\FSR_RCAS.hlsl 用时 0.264 毫秒
+2024-01-06 15:48:11.359|info|EffectCacheManager.cpp:bool __cdecl Magpie::Core::EffectCacheManager::_LoadFromMemCache(const class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > &,struct Magpie::Core::EffectDesc &)|已读取缓存 cache\FSR#FSR_EASU_06bd473fc886ba5a3
+2024-01-06 15:48:11.359|info|Renderer.cpp:bool __cdecl Magpie::Core::CompileEffect(bool,const struct Magpie::Core::EffectOption &,struct Magpie::Core::EffectDesc &)|编译 FSR\FSR_EASU.hlsl 用时 0.30800003 毫秒
+2024-01-06 15:48:11.359|info|Renderer.cpp:bool __cdecl Magpie::Core::Renderer::_BuildEffects(void)|编译着色器总计用时 0.324 毫秒
+2024-01-06 15:48:11.362|info|ImGuiImpl.cpp:unsigned long __cdecl Magpie::Core::ThreadProc(void *)|已注册鼠标钩子
+2024-01-06 15:48:11.362|info|CursorManager.cpp:bool __cdecl Magpie::Core::CursorManager::Initialize(void)|CursorManager 初始化完成
+2024-01-06 15:48:31.568|info|CursorManager.cpp:bool __cdecl Magpie::Core::CursorManager::GetCursorTexture(struct ID3D11Texture2D **,enum Magpie::Core::CursorManager::CursorType &)|已解析光标：0x18505db
+	类型：Color
+2024-01-06 15:48:44.461|info|Renderer.cpp:int __cdecl Magpie::Core::Renderer::_CheckSrcState(void)|源窗口位置或大小改变
+2024-01-06 15:48:44.461|info|Renderer.cpp:void __cdecl Magpie::Core::Renderer::Render(bool)|源窗口状态改变，退出全屏
+2024-01-06 15:48:44.462|info|ImGuiImpl.cpp:unsigned long __cdecl Magpie::Core::ThreadProc(void *)|已销毁鼠标钩子
+2024-01-06 15:48:44.468|info|FrameSourceBase.cpp:__cdecl Magpie::Core::FrameSourceBase::~FrameSourceBase(void)|已取消禁用窗口圆角
+2024-01-06 15:48:44.495|info|MagApp.cpp:bool __cdecl Magpie::Core::MagApp::_CreateHostWnd(void)|缩放窗口尺寸：1920x1080
+2024-01-06 15:48:44.496|info|DeviceResources.cpp:bool __cdecl Magpie::Core::DeviceResources::Initialize(void)|可变刷新率支持：是
+2024-01-06 15:48:44.533|info|DeviceResources.cpp:bool __cdecl Magpie::Core::DeviceResources::_TryCreateD3DDevice(struct IDXGIAdapter1 *) noexcept|已创建 D3D Device
+	功能级别：11.1
+2024-01-06 15:48:44.533|info|DeviceResources.cpp:void __cdecl Magpie::Core::LogAdapter(const struct DXGI_ADAPTER_DESC1 &)|当前图形适配器：
+	VendorId：0x10de
+	DeviceId：0x1f99
+	描述：NVIDIA GeForce GTX 1650
+2024-01-06 15:48:44.535|info|DeviceResources.cpp:bool __cdecl Magpie::Core::DeviceResources::_CreateSwapChain(void)|Hardware Composition 支持：是
+2024-01-06 15:48:44.535|info|DeviceResources.cpp:bool __cdecl Magpie::Core::DeviceResources::_CreateSwapChain(void)|Multiplane Overlay 支持：是
+2024-01-06 15:48:44.535|info|MagApp.cpp:bool __cdecl Magpie::Core::MagApp::_InitFrameSource(void)|当前捕获模式：Graphics Capture
+2024-01-06 15:48:44.535|info|FrameSourceBase.cpp:bool __cdecl Magpie::Core::FrameSourceBase::Initialize(void)|已禁用窗口圆角
+2024-01-06 15:48:44.658|info|GraphicsCaptureFrameSource.cpp:bool __cdecl Magpie::Core::GraphicsCaptureFrameSource::Initialize(void)|GraphicsCaptureFrameSource 初始化完成
+2024-01-06 15:48:44.658|info|MagApp.cpp:bool __cdecl Magpie::Core::MagApp::_InitFrameSource(void)|源窗口尺寸：1366x768
+2024-01-06 15:48:44.658|info|EffectCacheManager.cpp:bool __cdecl Magpie::Core::EffectCacheManager::_LoadFromMemCache(const class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > &,struct Magpie::Core::EffectDesc &)|已读取缓存 cache\FSR#FSR_RCAS_1443285dfc8fe0125
+2024-01-06 15:48:44.658|info|Renderer.cpp:bool __cdecl Magpie::Core::CompileEffect(bool,const struct Magpie::Core::EffectOption &,struct Magpie::Core::EffectDesc &)|编译 FSR\FSR_RCAS.hlsl 用时 0.141 毫秒
+2024-01-06 15:48:44.658|info|EffectCacheManager.cpp:bool __cdecl Magpie::Core::EffectCacheManager::_LoadFromMemCache(const class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > &,struct Magpie::Core::EffectDesc &)|已读取缓存 cache\FSR#FSR_EASU_06bd473fc886ba5a3
+2024-01-06 15:48:44.658|info|Renderer.cpp:bool __cdecl Magpie::Core::CompileEffect(bool,const struct Magpie::Core::EffectOption &,struct Magpie::Core::EffectDesc &)|编译 FSR\FSR_EASU.hlsl 用时 0.15300001 毫秒
+2024-01-06 15:48:44.658|info|Renderer.cpp:bool __cdecl Magpie::Core::Renderer::_BuildEffects(void)|编译着色器总计用时 0.165 毫秒
+2024-01-06 15:48:44.661|info|CursorManager.cpp:bool __cdecl Magpie::Core::CursorManager::Initialize(void)|CursorManager 初始化完成
+2024-01-06 15:48:44.661|info|ImGuiImpl.cpp:unsigned long __cdecl Magpie::Core::ThreadProc(void *)|已注册鼠标钩子
+2024-01-06 15:48:44.671|info|CursorManager.cpp:bool __cdecl Magpie::Core::CursorManager::GetCursorTexture(struct ID3D11Texture2D **,enum Magpie::Core::CursorManager::CursorType &)|已解析光标：0x10003
+	类型：Color
+2024-01-06 15:48:44.689|info|CursorManager.cpp:bool __cdecl Magpie::Core::CursorManager::GetCursorTexture(struct ID3D11Texture2D **,enum Magpie::Core::CursorManager::CursorType &)|已解析光标：0x18505db
+	类型：Color
+2024-01-06 15:48:54.867|info|Renderer.cpp:int __cdecl Magpie::Core::Renderer::_CheckSrcState(void)|源窗口位置或大小改变
+2024-01-06 15:48:54.867|info|Renderer.cpp:void __cdecl Magpie::Core::Renderer::Render(bool)|源窗口状态改变，退出全屏
+2024-01-06 15:48:54.869|info|ImGuiImpl.cpp:unsigned long __cdecl Magpie::Core::ThreadProc(void *)|已销毁鼠标钩子
+2024-01-06 15:48:54.874|info|FrameSourceBase.cpp:__cdecl Magpie::Core::FrameSourceBase::~FrameSourceBase(void)|已取消禁用窗口圆角
+2024-01-06 15:48:54.898|info|MagApp.cpp:bool __cdecl Magpie::Core::MagApp::_CreateHostWnd(void)|缩放窗口尺寸：1920x1080
+2024-01-06 15:48:54.898|info|DeviceResources.cpp:bool __cdecl Magpie::Core::DeviceResources::Initialize(void)|可变刷新率支持：是
+2024-01-06 15:48:54.937|info|DeviceResources.cpp:bool __cdecl Magpie::Core::DeviceResources::_TryCreateD3DDevice(struct IDXGIAdapter1 *) noexcept|已创建 D3D Device
+	功能级别：11.1
+2024-01-06 15:48:54.937|info|DeviceResources.cpp:void __cdecl Magpie::Core::LogAdapter(const struct DXGI_ADAPTER_DESC1 &)|当前图形适配器：
+	VendorId：0x10de
+	DeviceId：0x1f99
+	描述：NVIDIA GeForce GTX 1650
+2024-01-06 15:48:54.939|info|DeviceResources.cpp:bool __cdecl Magpie::Core::DeviceResources::_CreateSwapChain(void)|Hardware Composition 支持：是
+2024-01-06 15:48:54.939|info|DeviceResources.cpp:bool __cdecl Magpie::Core::DeviceResources::_CreateSwapChain(void)|Multiplane Overlay 支持：是
+2024-01-06 15:48:54.939|info|MagApp.cpp:bool __cdecl Magpie::Core::MagApp::_InitFrameSource(void)|当前捕获模式：Graphics Capture
+2024-01-06 15:48:54.939|info|FrameSourceBase.cpp:bool __cdecl Magpie::Core::FrameSourceBase::Initialize(void)|已禁用窗口圆角
+2024-01-06 15:48:55.062|info|GraphicsCaptureFrameSource.cpp:bool __cdecl Magpie::Core::GraphicsCaptureFrameSource::Initialize(void)|GraphicsCaptureFrameSource 初始化完成
+2024-01-06 15:48:55.062|info|MagApp.cpp:bool __cdecl Magpie::Core::MagApp::_InitFrameSource(void)|源窗口尺寸：1360x768
+2024-01-06 15:48:55.062|info|EffectCacheManager.cpp:bool __cdecl Magpie::Core::EffectCacheManager::_LoadFromMemCache(const class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > &,struct Magpie::Core::EffectDesc &)|已读取缓存 cache\FSR#FSR_RCAS_1443285dfc8fe0125
+2024-01-06 15:48:55.062|info|Renderer.cpp:bool __cdecl Magpie::Core::CompileEffect(bool,const struct Magpie::Core::EffectOption &,struct Magpie::Core::EffectDesc &)|编译 FSR\FSR_RCAS.hlsl 用时 0.136 毫秒
+2024-01-06 15:48:55.062|info|EffectCacheManager.cpp:bool __cdecl Magpie::Core::EffectCacheManager::_LoadFromMemCache(const class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > &,struct Magpie::Core::EffectDesc &)|已读取缓存 cache\FSR#FSR_EASU_06bd473fc886ba5a3
+2024-01-06 15:48:55.062|info|Renderer.cpp:bool __cdecl Magpie::Core::CompileEffect(bool,const struct Magpie::Core::EffectOption &,struct Magpie::Core::EffectDesc &)|编译 FSR\FSR_EASU.hlsl 用时 0.15300001 毫秒
+2024-01-06 15:48:55.062|info|Renderer.cpp:bool __cdecl Magpie::Core::Renderer::_BuildEffects(void)|编译着色器总计用时 0.16800001 毫秒
+2024-01-06 15:48:55.064|info|ImGuiImpl.cpp:unsigned long __cdecl Magpie::Core::ThreadProc(void *)|已注册鼠标钩子
+2024-01-06 15:48:55.064|info|CursorManager.cpp:bool __cdecl Magpie::Core::CursorManager::Initialize(void)|CursorManager 初始化完成
+2024-01-06 15:48:55.074|info|CursorManager.cpp:bool __cdecl Magpie::Core::CursorManager::GetCursorTexture(struct ID3D11Texture2D **,enum Magpie::Core::CursorManager::CursorType &)|已解析光标：0x10003
+	类型：Color
+2024-01-06 15:48:55.084|info|CursorManager.cpp:bool __cdecl Magpie::Core::CursorManager::GetCursorTexture(struct ID3D11Texture2D **,enum Magpie::Core::CursorManager::CursorType &)|已解析光标：0x18505db
+	类型：Color
+2024-01-06 15:49:31.386|info|Renderer.cpp:int __cdecl Magpie::Core::Renderer::_CheckSrcState(void)|源窗口位置或大小改变
+2024-01-06 15:49:31.386|info|Renderer.cpp:void __cdecl Magpie::Core::Renderer::Render(bool)|源窗口状态改变，退出全屏
+2024-01-06 15:49:31.387|info|ImGuiImpl.cpp:unsigned long __cdecl Magpie::Core::ThreadProc(void *)|已销毁鼠标钩子
+2024-01-06 15:49:31.394|info|FrameSourceBase.cpp:__cdecl Magpie::Core::FrameSourceBase::~FrameSourceBase(void)|已取消禁用窗口圆角
+2024-01-06 15:49:31.419|info|MagApp.cpp:bool __cdecl Magpie::Core::MagApp::_CreateHostWnd(void)|缩放窗口尺寸：1920x1080
+2024-01-06 15:49:31.419|info|DeviceResources.cpp:bool __cdecl Magpie::Core::DeviceResources::Initialize(void)|可变刷新率支持：是
+2024-01-06 15:49:31.461|info|DeviceResources.cpp:bool __cdecl Magpie::Core::DeviceResources::_TryCreateD3DDevice(struct IDXGIAdapter1 *) noexcept|已创建 D3D Device
+	功能级别：11.1
+2024-01-06 15:49:31.461|info|DeviceResources.cpp:void __cdecl Magpie::Core::LogAdapter(const struct DXGI_ADAPTER_DESC1 &)|当前图形适配器：
+	VendorId：0x10de
+	DeviceId：0x1f99
+	描述：NVIDIA GeForce GTX 1650
+2024-01-06 15:49:31.463|info|DeviceResources.cpp:bool __cdecl Magpie::Core::DeviceResources::_CreateSwapChain(void)|Hardware Composition 支持：是
+2024-01-06 15:49:31.463|info|DeviceResources.cpp:bool __cdecl Magpie::Core::DeviceResources::_CreateSwapChain(void)|Multiplane Overlay 支持：是
+2024-01-06 15:49:31.463|info|MagApp.cpp:bool __cdecl Magpie::Core::MagApp::_InitFrameSource(void)|当前捕获模式：Graphics Capture
+2024-01-06 15:49:31.463|info|FrameSourceBase.cpp:bool __cdecl Magpie::Core::FrameSourceBase::Initialize(void)|已禁用窗口圆角
+2024-01-06 15:49:31.587|info|GraphicsCaptureFrameSource.cpp:bool __cdecl Magpie::Core::GraphicsCaptureFrameSource::Initialize(void)|GraphicsCaptureFrameSource 初始化完成
+2024-01-06 15:49:31.587|info|MagApp.cpp:bool __cdecl Magpie::Core::MagApp::_InitFrameSource(void)|源窗口尺寸：1440x1055
+2024-01-06 15:49:31.587|info|EffectCacheManager.cpp:bool __cdecl Magpie::Core::EffectCacheManager::_LoadFromMemCache(const class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > &,struct Magpie::Core::EffectDesc &)|已读取缓存 cache\FSR#FSR_RCAS_1443285dfc8fe0125
+2024-01-06 15:49:31.587|info|Renderer.cpp:bool __cdecl Magpie::Core::CompileEffect(bool,const struct Magpie::Core::EffectOption &,struct Magpie::Core::EffectDesc &)|编译 FSR\FSR_RCAS.hlsl 用时 0.20700002 毫秒
+2024-01-06 15:49:31.587|info|EffectCacheManager.cpp:bool __cdecl Magpie::Core::EffectCacheManager::_LoadFromMemCache(const class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > &,struct Magpie::Core::EffectDesc &)|已读取缓存 cache\FSR#FSR_EASU_06bd473fc886ba5a3
+2024-01-06 15:49:31.587|info|Renderer.cpp:bool __cdecl Magpie::Core::CompileEffect(bool,const struct Magpie::Core::EffectOption &,struct Magpie::Core::EffectDesc &)|编译 FSR\FSR_EASU.hlsl 用时 0.23300001 毫秒
+2024-01-06 15:49:31.587|info|Renderer.cpp:bool __cdecl Magpie::Core::Renderer::_BuildEffects(void)|编译着色器总计用时 0.24900001 毫秒
+2024-01-06 15:49:31.590|info|CursorManager.cpp:bool __cdecl Magpie::Core::CursorManager::Initialize(void)|CursorManager 初始化完成
+2024-01-06 15:49:31.590|info|ImGuiImpl.cpp:unsigned long __cdecl Magpie::Core::ThreadProc(void *)|已注册鼠标钩子
+2024-01-06 15:49:31.603|info|CursorManager.cpp:bool __cdecl Magpie::Core::CursorManager::GetCursorTexture(struct ID3D11Texture2D **,enum Magpie::Core::CursorManager::CursorType &)|已解析光标：0x18505db
+	类型：Color
+2024-01-06 15:49:43.614|info|Renderer.cpp:int __cdecl Magpie::Core::Renderer::_CheckSrcState(void)|源窗口位置或大小改变
+2024-01-06 15:49:43.614|info|Renderer.cpp:void __cdecl Magpie::Core::Renderer::Render(bool)|源窗口状态改变，退出全屏
+2024-01-06 15:49:43.616|info|ImGuiImpl.cpp:unsigned long __cdecl Magpie::Core::ThreadProc(void *)|已销毁鼠标钩子
+2024-01-06 15:49:43.620|info|FrameSourceBase.cpp:__cdecl Magpie::Core::FrameSourceBase::~FrameSourceBase(void)|已取消禁用窗口圆角
+2024-01-06 15:49:43.648|info|MagApp.cpp:bool __cdecl Magpie::Core::MagApp::_CreateHostWnd(void)|缩放窗口尺寸：1920x1080
+2024-01-06 15:49:43.649|info|DeviceResources.cpp:bool __cdecl Magpie::Core::DeviceResources::Initialize(void)|可变刷新率支持：是
+2024-01-06 15:49:43.695|info|DeviceResources.cpp:bool __cdecl Magpie::Core::DeviceResources::_TryCreateD3DDevice(struct IDXGIAdapter1 *) noexcept|已创建 D3D Device
+	功能级别：11.1
+2024-01-06 15:49:43.695|info|DeviceResources.cpp:void __cdecl Magpie::Core::LogAdapter(const struct DXGI_ADAPTER_DESC1 &)|当前图形适配器：
+	VendorId：0x10de
+	DeviceId：0x1f99
+	描述：NVIDIA GeForce GTX 1650
+2024-01-06 15:49:43.699|info|DeviceResources.cpp:bool __cdecl Magpie::Core::DeviceResources::_CreateSwapChain(void)|Hardware Composition 支持：是
+2024-01-06 15:49:43.699|info|DeviceResources.cpp:bool __cdecl Magpie::Core::DeviceResources::_CreateSwapChain(void)|Multiplane Overlay 支持：是
+2024-01-06 15:49:43.699|info|MagApp.cpp:bool __cdecl Magpie::Core::MagApp::_InitFrameSource(void)|当前捕获模式：Graphics Capture
+2024-01-06 15:49:43.699|info|FrameSourceBase.cpp:bool __cdecl Magpie::Core::FrameSourceBase::Initialize(void)|已禁用窗口圆角
+2024-01-06 15:49:43.860|info|GraphicsCaptureFrameSource.cpp:bool __cdecl Magpie::Core::GraphicsCaptureFrameSource::Initialize(void)|GraphicsCaptureFrameSource 初始化完成
+2024-01-06 15:49:43.860|info|MagApp.cpp:bool __cdecl Magpie::Core::MagApp::_InitFrameSource(void)|源窗口尺寸：1366x768
+2024-01-06 15:49:43.860|info|EffectCacheManager.cpp:bool __cdecl Magpie::Core::EffectCacheManager::_LoadFromMemCache(const class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > &,struct Magpie::Core::EffectDesc &)|已读取缓存 cache\FSR#FSR_RCAS_1443285dfc8fe0125
+2024-01-06 15:49:43.860|info|Renderer.cpp:bool __cdecl Magpie::Core::CompileEffect(bool,const struct Magpie::Core::EffectOption &,struct Magpie::Core::EffectDesc &)|编译 FSR\FSR_RCAS.hlsl 用时 0.20600002 毫秒
+2024-01-06 15:49:43.860|info|EffectCacheManager.cpp:bool __cdecl Magpie::Core::EffectCacheManager::_LoadFromMemCache(const class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > &,struct Magpie::Core::EffectDesc &)|已读取缓存 cache\FSR#FSR_EASU_06bd473fc886ba5a3
+2024-01-06 15:49:43.860|info|Renderer.cpp:bool __cdecl Magpie::Core::CompileEffect(bool,const struct Magpie::Core::EffectOption &,struct Magpie::Core::EffectDesc &)|编译 FSR\FSR_EASU.hlsl 用时 0.23200001 毫秒
+2024-01-06 15:49:43.860|info|Renderer.cpp:bool __cdecl Magpie::Core::Renderer::_BuildEffects(void)|编译着色器总计用时 0.245 毫秒
+2024-01-06 15:49:43.862|info|CursorManager.cpp:bool __cdecl Magpie::Core::CursorManager::Initialize(void)|CursorManager 初始化完成
+2024-01-06 15:49:43.862|info|ImGuiImpl.cpp:unsigned long __cdecl Magpie::Core::ThreadProc(void *)|已注册鼠标钩子
+2024-01-06 15:49:43.873|info|CursorManager.cpp:bool __cdecl Magpie::Core::CursorManager::GetCursorTexture(struct ID3D11Texture2D **,enum Magpie::Core::CursorManager::CursorType &)|已解析光标：0x10003
+	类型：Color
+2024-01-06 15:49:43.884|info|CursorManager.cpp:bool __cdecl Magpie::Core::CursorManager::GetCursorTexture(struct ID3D11Texture2D **,enum Magpie::Core::CursorManager::CursorType &)|已解析光标：0x18505db
+	类型：Color
+2024-01-06 15:50:50.195|info|Renderer.cpp:int __cdecl Magpie::Core::Renderer::_CheckSrcState(void)|前台窗口已改变
+2024-01-06 15:50:50.195|info|Renderer.cpp:void __cdecl Magpie::Core::Renderer::Render(bool)|源窗口状态改变，退出全屏
+2024-01-06 15:50:50.196|info|ImGuiImpl.cpp:unsigned long __cdecl Magpie::Core::ThreadProc(void *)|已销毁鼠标钩子
+2024-01-06 15:50:50.201|info|FrameSourceBase.cpp:__cdecl Magpie::Core::FrameSourceBase::~FrameSourceBase(void)|已取消禁用窗口圆角
+2024-01-06 15:50:52.879|info|XamlApp.cpp:void __cdecl Magpie::XamlApp::_QuitWithoutMainWindow(void)|程序退出
+2024-01-06 15:59:12.893|info|XamlApp.cpp:bool __cdecl Magpie::XamlApp::Initialize(struct HINSTANCE__ *,const wchar_t *)|程序启动
+	版本：v0.10.4
+	管理员：是
+2024-01-06 15:59:12.954|info|AppSettings.cpp:bool __cdecl winrt::Magpie::App::AppSettings::Initialize(void)|便携模式：是
+2024-01-06 15:59:16.064|info|ShortcutService.cpp:auto __cdecl winrt::Magpie::App::ShortcutService::_LowLevelKeyboardProc::<lambda_1>::()::<lambda_1>::operator ()(void) const|热键 Scale 激活（Keyboard Hook）
+2024-01-06 15:59:16.068|info|MagApp.cpp:bool __cdecl Magpie::Core::MagApp::_CreateHostWnd(void)|缩放窗口尺寸：2560x1440
+2024-01-06 15:59:16.068|info|DeviceResources.cpp:bool __cdecl Magpie::Core::DeviceResources::Initialize(void)|可变刷新率支持：是
+2024-01-06 15:59:16.101|info|DeviceResources.cpp:bool __cdecl Magpie::Core::DeviceResources::_TryCreateD3DDevice(struct IDXGIAdapter1 *) noexcept|已创建 D3D Device
+	功能级别：11.1
+2024-01-06 15:59:16.101|info|DeviceResources.cpp:void __cdecl Magpie::Core::LogAdapter(const struct DXGI_ADAPTER_DESC1 &)|当前图形适配器：
+	VendorId：0x10de
+	DeviceId：0x1f99
+	描述：NVIDIA GeForce GTX 1650
+2024-01-06 15:59:16.103|info|DeviceResources.cpp:bool __cdecl Magpie::Core::DeviceResources::_CreateSwapChain(void)|Hardware Composition 支持：是
+2024-01-06 15:59:16.103|info|DeviceResources.cpp:bool __cdecl Magpie::Core::DeviceResources::_CreateSwapChain(void)|Multiplane Overlay 支持：是
+2024-01-06 15:59:16.103|info|MagApp.cpp:bool __cdecl Magpie::Core::MagApp::_InitFrameSource(void)|当前捕获模式：Graphics Capture
+2024-01-06 15:59:16.103|info|FrameSourceBase.cpp:bool __cdecl Magpie::Core::FrameSourceBase::Initialize(void)|已禁用窗口圆角
+2024-01-06 15:59:16.246|info|GraphicsCaptureFrameSource.cpp:bool __cdecl Magpie::Core::GraphicsCaptureFrameSource::Initialize(void)|GraphicsCaptureFrameSource 初始化完成
+2024-01-06 15:59:16.246|info|MagApp.cpp:bool __cdecl Magpie::Core::MagApp::_InitFrameSource(void)|源窗口尺寸：1920x1080
+2024-01-06 15:59:16.247|info|Win32Utils.cpp:bool __cdecl Win32Utils::ReadFile(const wchar_t *,class std::vector<unsigned char,class std::allocator<unsigned char> > &)|读取文件：cache\FSR#FSR_EASU_06bd473fc886ba5a3
